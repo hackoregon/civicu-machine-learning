@@ -101,4 +101,20 @@ Do you know how to write a python function? Can you instantiate and manipulate a
     - Big Model: Detecting habitable planets
 
 
+## [Resources](resources.md)
+
+### Toolkits & Guidebooks
+
+- Machine Learning
+- Windows Environment Setup
+- Mac Environment Setup
+- Git
+- [Time Series](https://docs.google.com/document/d/143aa_m1b5QiieBjnvgTlp-OskVxtCBO7Rd-XoBrt808/edit)
+- Processing Text (NLP)
+- Databases
+- Python
+- HTML and JSON
+- Chatbots
+
+
 
