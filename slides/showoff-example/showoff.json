@@ -1,7 +1,7 @@
 {
-  "name": "Something",
-  "description": "Example Presentation",
-  "author": "Foo Bar John",
+  "name": "Introduction to Machine Learning",
+  "description": "What is machine learning and ",
+  "author": "Hobson Lane",
   "templates" : {
       "special" : "simple.tpl"
   },
@@ -11,5 +11,6 @@
     {"section":"two"},
     {"section":"three"},
     {"section":"four"}
-  ]
+  ],
+  "feedback": true
 }
