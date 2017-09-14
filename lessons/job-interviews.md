@@ -96,6 +96,11 @@ This could be a source of quiz, exam, or job-interview questions.
 - Correlation
 - transformation
 - linear transformation
+- causality
+- Bayes rule
+- Bayesian inference
+- Frequentist
+- Bayesian
 
 [1]: N. V. Chawla, K. W. Bowyer, L. O.Hall, W. P. Kegelmeyer, “SMOTE: synthetic minority over-sampling technique,” Journal of artificial intelligence research, 321-357, 2002.
 [2]: H. Han, W. Wen-Yuan, M. Bing-Huan, “Borderline-SMOTE: a new over-sampling method in imbalanced data sets learning,” Advances in intelligent computing, 878-887, 2005.
@@ -161,7 +166,12 @@ This could be a source of quiz, exam, or job-interview questions.
 
 ### SQL 
 
-- precision and recall formulas should be known
+Should understand basic SQL syntax.
+
+- WHERE
+- SELECT
+- GROUP_BY
+- COUNT
 
 ### Concepts
 

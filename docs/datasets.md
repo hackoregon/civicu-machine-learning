@@ -91,3 +91,15 @@ Competitions often have labeled datasets and many competitors open source their 
 
 - [JSONView](https://chrome.google.com/webstore/search/JSONview?hl=en-US) plugin for Chrome
   - decompresses and lays out json in a tree to make it easier to understand
+
+
+## Health Data
+
+- [Ebola Incidences and Death Rates]
+  - [SierraLeone](https://github.com/cmrivers/ebola/blob/master/SierraLeone_country.csv)
+  - [SierraLeone by town](https://github.com/cmrivers/ebola/blob/master/SierraLeone_town.csv)
+
+
+## Images
+
+- [cat/dog images, image augmenting/transforming, neural net refining, flickr data ideas](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)

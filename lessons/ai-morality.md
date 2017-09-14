@@ -2,6 +2,17 @@
 
 ## References
 
+### Inequality Arbitrage
+
+- Quant Trading by Karen Rubin: [video](http://pyvideo.org/pycon-us-2016/karen-rubin-building-a-quantitative-trading-strategy-to-beat-the-sp500-pycon-2016.html), [slides](https://speakerdeck.com/pycon2016/karen-rubin-building-a-quantitative-trading-strategy-to-beat-the-s-and-p500)
+- Bertrand and Mullainathan "...More Employable than Lakisha and Jamal": [NBER draft paper](http://www.nber.org/papers/w9873), [2004 Indiana State paper](http://www2.econ.iastate.edu/classes/econ321/Orazem/bertrand_emily.pdf)
+- [Wang & Kosinski](https://osf.io/fk3xr/download)
+
+### Amoral AI
+
+- [hackers use machine learning to find soft points](http://gizmodo.com/hackers-have-already-started-to-weaponize-artificial-in-1797688425)
+- [autonomous weapons](https://futureoflife.org/open-letter-autonomous-weapons/)
+
 ### Driverless Cars
 
 - [Patrick Lin: Ethical dilemma of self-driving cars](https://www.youtube.com/watch?v=ixIoDYVfKA0): Moral, ethical decisions that machines must make, that humans don't have to.
@@ -15,6 +26,8 @@ Self-driving cars will have to differentiate between selfish self-driving cars a
 Auto manufacturers may differentiate themselves by being the prosocial one (low emission Prius, zero-emission Tesla) or selfish (gas-guzzling american SUV manufacturers).
 Eventually the prosocial, forward-thinking, big-picture vision companies and engineers always win.
 So regulation cannot solve this riddle is not the answer, big-thinking, altruistic design is!
+
+## Slides
 
 <!SLIDE>
 
