@@ -159,8 +159,9 @@ Visually impaired developers might even be enlisted in training and software dev
 ## References
 
 1. [Start Training YOLO with Our Own Data - Guanghan Ning's Blog](http://guanghan.info/blog/en/my-works/train-yolo/)
+1. [Basic YOLOv2 in keras for an MVP?](https://github.com/experiencor/basic-yolo-keras)
 2. [Andrew Ng at Spark Summit mentioning DuLight project for visually impaired](https://www.youtube.com/watch?v=4eJhcxfYR4I&feature=youtu.be)
 3. [Demo video of DuLight in China urban environment](https://www.youtube.com/watch?v=Xe5RcJ1JY3c)
 4. [Example Day in the Life of Visually Impaired in China](https://www.youtube.com/watch?v=XRWG4WhwXvI)
 5. [eSight enhances video to expand what lowsight users (legally blind) can see](https://www.esighteyewear.com/)
-
+6. [visualization of keras CNNs like VGG](https://github.com/experiencor/deep-viz-keras)
