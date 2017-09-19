@@ -1,4 +1,4 @@
-# Video Narration Problem
+# Video Naration
 
 ## Problem statement
 
@@ -7,7 +7,7 @@
 
 ## Caveat
 
-Architecture chosen based on what I'm familiar with. A real architecture design would require collaboration among stakeholders and the engineers tasked with implementing and maintaining it. 
+This architecture was developed "open loop" based on what I'm familiar with. A real architecture design would require collaboration among stakeholders, most importantly the engineers tasked with implementing and maintaining it.
 
 ## User (Client Hardware)
 
@@ -51,7 +51,7 @@ Mobile hardware transcribes user voice commands to text (e.g. using Android voic
 2. mobile: compress video
 3. mobile: layers of neural net up to "neck-down" (detected features) to reduce comm bandwidth
 4. mobile: stream features or compressed video to Aira service
-5. Aira (Google service or Aira Cleo): semantic analysis of image frames and video using a deep net 
+5. Aira (Google service or Aira Cleo): semantic analysis of image frames and video using a deep net
 
 #### Example Interactions
 
@@ -60,7 +60,7 @@ Some example problems/features in approximate order of increasing complexity:
 1. "What am I looking at?": object recognition -- one prominent object in center of FOV
 2. "Read this text.": OCR on a stitched+registered image (panorama from multiple frames of video)
 3. "Summarize this text." OCR (work for braille too) and text summarization, read menu, street sign, computer screen, etc
-4. "Describe this.": image semantic analysis, more complete description of scene/image and multiple objects in it) 
+4. "Describe this.": image semantic analysis, more complete description of scene/image and multiple objects in it)
 5. "What's around me?: semantic SLAM -- use stitched "videosphere" or "videorama" (synthetic/stitched low frame rate video panorama) to estimate current state of the environment, objects nearby, and user location within it
 6. "Is it safe for me to go?" (requires interaction with agent who will ask user to look in particular directions)
 7. "Who is this?": face recognition and contacts lookup with fallback to stereotyping (race/gender/hair-color/clothing-color/body-build even sexual-orientation)
@@ -74,7 +74,7 @@ An always-on cluster of GPUs for training on all labeled data as it arrives from
 
 Cluster should be optimized for back propagation of neural networks and image processing/transformation.
 
-- prioritize high reliability labeled data over unsupervised or low reliability data (from users) 
+- prioritize high reliability labeled data over unsupervised or low reliability data (from users)
 - image and video transforms to augment labeled training data and use up entire capacity of cluster
 - it may make sense to have a small in-house rack of GPUs optimized for image processing
 
@@ -93,12 +93,12 @@ The last two add advanced functionality.
 1. image registration: Kalman Filter on Accels+Gyros to register images on sphere around user with short (1 s?) time constant (like Google image sphere)
 2. image segmentation and object recognition: neural net to identify and localize objects in the "photo sphere" with 10-100 ms time constant
 3. SLAM: long time-constant (30-min) SLAM (KF on image features) to track object and user locations over time
-4. direct video-narration: train a CNN+LSTM+? network on compressed(?) video using frame-based semantic analysis 
+4. direct video-narration: train a CNN+LSTM+? network on compressed(?) video using frame-based semantic analysis
 
 #### Speech
 
 These are the major NLP algorithms in the system.
-Speech-to-text and text-to-speech components are available for free or for low cost. 
+Speech-to-text and text-to-speech components are available for free or for low cost.
 The first two are required for an MVP.
 The last one adds advanced functionality.
 
@@ -124,11 +124,11 @@ Existing SLAM packages would be deployed to the production server cluster (below
 
 It may ultimately be possible to directly "translate" compressed or uncompressed video streams into text. Training data could be acquired from human agent descriptions of scenes following "narration" requests from users.
 Frame-based narration neural nets could also be used to generate training data from any archived or streaming video.
-Video Semantic Analysis is like frame-based image semantica analysis but must also incorporate location and movement information from SLAM, such as:
+Video Semantic Analysis is like frame-based image semantic analysis but must also incorporate location and movement information from SLAM, such as:
 
 - "a person is moving left to right"
 - "a cat is lying on the sidewalk in 6 feet in front of you"
-- "car is driving directly towards you. move to your right quickly to get behind a barrier"
+- "car is driving directly towards you." ("move to your right quickly to get behind a barrier")
 
 These text streams would be aligned with the video to train a sequence to sequence deep learning model.
 
@@ -138,7 +138,7 @@ Build up to an AWS "fleet" over time as customer base grows. Client mobile/weara
 
 1. utilize CPU on wearable and tethered phone for image/video compression and streaming to Aira API
 2. utilize CPU on wearable and tethered phone for forward-propogation of video through first layer of neural net
-3. utilize CPU+GPU  on wearable and phone for first layer of neural net
+3. utilize CPU+GPU  on wearable and phone for first few layers (to neckdown) of neural net
 
 Incrementally scaled up servers, all optimized for image processing/compression and forward propagation of neural networks.
 
@@ -147,5 +147,4 @@ Incrementally scaled up servers, all optimized for image processing/compression 
 2. Static cluster of 16-core 16-worker (celery) server serving a maximum of 16 simultaneous clients
 3. Elastic load balancer to distribute load from <1000 simultaneous requests to <100 [dynamically scaled](https://aws.amazon.com/autoscaling/#dynamic) AWS EC2 instances
 4. research/experiment with AWS lambda "nodes" to determine scalability economics
-
 
