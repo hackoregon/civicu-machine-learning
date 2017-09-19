@@ -1,9 +1,13 @@
 # Resume-Job Matching
 
-Imagine the company you are applying to is a recruiting firm that wants a data scientists to help them build a system for automatically identifying good candidate matches to job openings they are trying to fill.
+Imagine the company you are applying to is a recruiting firm that wants a data scientists to help them build a system for automatically identifying good candidate matches to job openings they are trying to fill.  Let's start with the most basic version of this problem and work our way up. Imagine they have linked-in profiles for candidates with structured data: highest education level, job history (previous titles and employers, with dates), and they even get their eagerness label "actively seeking a new position", "passively looking", "not looking for a new job". They also have a plain text resume for each candidate and a "summary" written by the candidate. For jobs they have listings from Indeed with job title, minimum education levels, company name, company industry.
+
+1. some of the labels for "eagerness" values are missing, design a pipeline to fill in those values 
+
+## Summary
 
 - type: supervised and/or unsupervised, classification and/or regression, indexing, search
-- data: semi-structured, unstructured text with some text metadat fields
+- data: semi-structured, unstructured text with some text metadata fields
 - data source: scraping or API (Indeed, LinkedIn)
 - bigdata: no
 - big O: O(N^2)
@@ -19,7 +23,7 @@ A successful dataset might be
   - second-to-last employer name and job title
 - 1M job descriptions (from Indeed, Linked-In, etc)
   - job ID
-  - job decscription
+  - job description
   - company description
   - job title
   - company name
@@ -38,7 +42,9 @@ A successful dataset might be
 
 Describe the pipeline for a PoC (Proof of Concept) or MVP (Minimum Viable Product).
 Describe some additional pipeline features
+
 ## Evaluation
 
 - What ethical decisions will your algorithm have to make?
 - How will you evaluate the ethics of your algorithm?
+
