@@ -148,3 +148,19 @@ Incrementally scaled up servers, all optimized for image processing/compression 
 3. Elastic load balancer to distribute load from <1000 simultaneous requests to <100 [dynamically scaled](https://aws.amazon.com/autoscaling/#dynamic) AWS EC2 instances
 4. research/experiment with AWS lambda "nodes" to determine scalability economics
 
+
+## Crowd-Sourcing Development
+
+If Aira open sourced individual modules and data sets (equivalent to sponsoring in-house Kaggle competitions) Total Good could manage a competition + mentorship program to manage an open source developer community.
+Visually impaired developers might even be enlisted in training and software development tasks.
+
+, (not the executive that combines them)
+
+## References
+
+1. [Start Training YOLO with Our Own Data - Guanghan Ning's Blog](http://guanghan.info/blog/en/my-works/train-yolo/)
+2. [Andrew Ng at Spark Summit mentioning DuLight project for visually impaired](https://www.youtube.com/watch?v=4eJhcxfYR4I&feature=youtu.be)
+3. [Demo video of DuLight in China urban environment](https://www.youtube.com/watch?v=Xe5RcJ1JY3c)
+4. [Example Day in the Life of Visually Impaired in China](https://www.youtube.com/watch?v=XRWG4WhwXvI)
+5. [eSight enhances video to expand what lowsight users (legally blind) can see](https://www.esighteyewear.com/)
+
