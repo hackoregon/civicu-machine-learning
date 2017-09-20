@@ -1,12 +1,90 @@
 # AI Morality
 
+## Outline
+
+* State of the art for AI
+    * How intelligent **are** the machines?
+        * Ng 1-second rule: Machines can be taught to make any 1-second decision that a human can make
+        * YOLO can track and label objects in video with latency and accuracy comparable to humans
+        * [Baidu Deep Speech 2](https://www.technologyreview.com/s/544651/baidus-deep-learning-system-rivals-people-at-speech-recognition/) and [MS LACE](https://arxiv.org/abs/1610.05256): speech-to-text accuracy parity with humans
+        * [Google Waymo](https://www.google.com/selfdrivingcar/files/reports/report-0515.pdf): self-driving car [at-fault accident rate] 10x better than [human drivers](https://en.wikipedia.org/wiki/Aviation_safety#Transport_comparisons)
+        * [Medical and transportation](http://files.quizsnack.com/iframe/embed.html?hash=q715o9n1) personnel likely to be displaced in near future (10-20 years)
+    * How is Deep Learning different from Machine Learning?
+        * ML wins for most practical business problems
+        * DL models are less explainable and tunable
+        * Ng 1-second rule: DL can make most decisions faster and more accurately than a human
+        * DL requires more data than ML (because models are more complex)
+* The control problem (why AI morality is important)
+    * Why is it a problem?
+        * Elon Musk et. al. [open letter]() to UN
+        * Superintelligence will be motivated by self-interest if predecessors are taught self-interest
+        * [Militaries are weaonizing AI](https://futureoflife.org/open-letter-autonomous-weapons/)
+        * [Hackers harnessing AI to find vulnerable people](http://gizmodo.com/hackers-have-already-started-to-weaponize-artificial-in-1797688425)
+    * Historical examples
+        * Biological examples: mind-altering [viruses](http://www.rightdiagnosis.com/t/toxoplasmosis/stats-country.htm) and [bacteria](https://www.scientificamerican.com/article/mental-health-may-depend-on-creatures-in-the-gut/)
+        * Human: mind-altering corporations (advertisement, pharmaceuticals, psycho-active products)
+    * When will it affect my life?
+        * Superintelligence has arrived (Corporations are cyborg societies)
+        * Your life and your morality are already being influenced by Facebook, Google, etc
+    * Is pro-social behavior *adaptive*?
+        * Social evolutionary dynamics predictions
+        * [Simulations of evolution](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5241693/) suggest microbiome is to **blame** for altruism
+        * The origin of "spite" (maladaptive for individual, winning strategy for community)
+* The solution
+    * End-run around the control problem: don't control, outcompete
+    * Build systems that collaborate rather than manipulate
+    * Customer, community, partner "focus"
+    * Disturbing transparency (open science, open data, open source)
+    * Ruthless altruism (destroy antisocial competition)
+    * Build business intelligence systems that "win" by helping your community
+    * Never shirk your moral decision responsibility, no matter what the lawyers tell you
+
+
+Big thinkers like Musk (SpaceX), Hassabis (Deep Mind), Suleyman (Deep Mind), and Benjio (Element AI) have put their names on the line by forecasting the emminent emmergence of superintelligence, and the urgency of preventing the weaponization of AI. Other famous AI architects, like Andrew Ng, have compared the worry about the emergence of evil superintelligence to worrying about the overpopulation of Mars. So, to frame this talk I will briefly enumerate the arguments for and against AI morality research & development.
+
+You'll be left to draw your own conclusions about the urgency of AI morality research and the pending emergence of superintelligence as I reframe the debate to address more tangible and immediate decisions that you make every day. I will motivate you to more deeply understand machine learning by showing you how it is making moral decisions on your behalf. Software developers are teaching machines to make moral decisions every day, often without even knowing it. I will provide examples of real world machine learning systems that have been trained by Data Scientists to make amoral choices. These engineers and business decision makers are unknowingly laying the foundation for antisocial machine intelligence as they grow in complexity.
+
+Tesla engineers are deciding which inhabitants of this planet are worth braking for. Google developers decide what news will help you vote in an informed way. Facebook engineers teach machine learning systems which genders, sexual orientation, and races of people you should meet. Twitter's algorithms decide which ideas of the collective consciousness are newsworthy. It's your responsibility as decision makers to elevate these important decisions from the Agile scrum of developers up to the board room. Your executives and investors must take responsibility for the morality of the AI systems you are releasing into the wild. These are autonomous systems that may live on in software and deep learning connections long after you company is gone. Just as Monsanto and Dupont executives calculate the risks of releasing GMO and chemical products into the agricultural ecosystem that feeds the world, you must consider the risks of releasing your bots into the world.
+
+After motivating a deeper understanding of deep learning I'll provide concrete examples of how Total Good builds prosocial moral decision-making into the feedback loops of its algorithms. And this approach will be shown as a potential solution to the AI "Control Problem" that relies only on the mathematics of social evolutionary dynamics. Antisocial AI cannot be regulated away, it must be outcompeted. Prosocial AI will help your business thrive.
+
+## Bio
+
+Hobson is the cofounder and President of the nonprofit Total Good. Hobson has worked as the lead Data Scientist in a variety of industries, from consumer electronics to aerospace and robotics. Hobson has designed and built state-of-the art machine learning pipelines for major corporate laboratories like Intel Labs and Sharp Labs, as well as startups like Talentpair and Building Energy. And Hobson is the lead author of the book "Natural Language Processing In Action" scheduled for publication by Manning Publishing in early 2018. Hobson thrives on sharing his experience in technology development by contributing to open source projects, open science data sets and teaching at schools like Springboard and Hack Oregon's Hack University.
+
+## Prosocial Organism Examples
+
+- gut bacteria that don't kill us
+- 15 octopi in "Octopolis"
+- ants (species and colonties sometimes live in cooperation with others)
+- symbiotic cross-species relationships
+    - clown fish and anemonies
+    - coral reef polups and algae
+    - lichen, fungi, algae, and bacteria (viruses?)
+
+## Antisocial Organism Examples
+
+Some seemingling antisocial organisms and behaviors may be adaptive for an ecosystem as a whole
+
+- ant brain virus that causes them to climb grass and wait to be eaten
+- toxo plasmosis in humans increases risk-taking & risk-taking propelled homosapien ahead of neanderthal
+- parasite epidemics (reducing population densities to sustainable levels, increasing species diversity)
+- spite and revenge enforce social norms while being maladaptive for the individual
+
+## Sexual Reproduction
+
+- leads to complex behavior
+- appreciation for and love for an "other" (gender)
+- display and signaling and communication
+- complex social structures?
+
 ## Industry Trends
 
 Poll by Andrew Ng at Spark Conf 2016 ignored many industries like law, construction, professional services, and blue collar services like hairdressing and fast food restaurant work.
 
 Respondents: 574
 
-Which industry is most likely to be transformed by AI in the near term (this is really just a poll of the industry mix of attendees at Spark Conf, industries using Spark.
+Which industry is most likely to be transformed by AI in the near term (this is really just a poll of the industry mix of attendees at Spark Conf, industries using Spark. 
 
 1. Healthcare: 35%
 2. Transportation: 21%
@@ -109,6 +187,7 @@ cars don't move at intersection
 ### AI Trends
 
 - [Andrew Ng Poll Results](http://files.quizsnack.com/iframe/embed.html?hash=q715o9n1)
+- [Deep Speech 2](https://www.technologyreview.com/s/544651/baidus-deep-learning-system-rivals-people-at-speech-recognition/)
 
 ### Driverless Cars
 
@@ -131,6 +210,7 @@ If machines are good at manipulating us and are motivated by survival instincts 
 ### Non-virtuous Cycle of Hype
 
 [Ng isn't worried about Superintelligence](https://youtu.be/21EiKfQYZXc?t=39m8s)
+Each year, technological breakthroughs in machine intelligence and computing make it ever more likely that Ng will be proven wrong within our lifetime.  But he is right to focus policymakers on the more immediate problem of job displacement.
 
 Ng feels it's a misallocation of resources (his friends are not involved in anti-evil AI research)?
 
