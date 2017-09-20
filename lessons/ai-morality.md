@@ -1,8 +1,8 @@
-# AI Morality
+# Learning Morality
 
 ## Outline
 
-* State of the art for AI
+* Deep Learning (AI) state of the art
     * How intelligent **are** the machines?
         * Ng 1-second rule: Machines can be taught to make any 1-second decision that a human can make
         * YOLO can track and label objects in video with latency and accuracy comparable to humans
@@ -38,6 +38,7 @@
     * Ruthless altruism (destroy antisocial competition)
     * Build business intelligence systems that "win" by helping your community
     * Never shirk your moral decision responsibility, no matter what the lawyers tell you
+    * Teach morality to your coworkers **and** their machines
 
 
 Big thinkers like Musk (SpaceX), Hassabis (Deep Mind), Suleyman (Deep Mind), and Benjio (Element AI) have put their names on the line by forecasting the emminent emmergence of superintelligence, and the urgency of preventing the weaponization of AI. Other famous AI architects, like Andrew Ng, have compared the worry about the emergence of evil superintelligence to worrying about the overpopulation of Mars. So, to frame this talk I will briefly enumerate the arguments for and against AI morality research & development.
