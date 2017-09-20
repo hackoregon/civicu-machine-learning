@@ -138,4 +138,3 @@ Humans can no longer have good instincts about the kinds of tweaks to the algori
 [Andrew Ng lecture to Stanford MBA students 2017-01-25](https://www.youtube.com/watch?v=21EiKfQYZXc)
 
 
-

@@ -148,6 +148,13 @@ Incrementally scaled up servers, all optimized for image processing/compression 
 3. Elastic load balancer to distribute load from <1000 simultaneous requests to <100 [dynamically scaled](https://aws.amazon.com/autoscaling/#dynamic) AWS EC2 instances
 4. research/experiment with AWS lambda "nodes" to determine scalability economics
 
+## Validation & Testing
+
+The feature definition and test writing are tightly entertwined.
+Test-driven development works well for Machine Learning systems because the tests often do a good job of defining precisely what the machine learning model should do.
+These tests also often suggest implementation approaches, especially if they use regular expressions, template strings (python f-strings), or finite state machines (if-then logic trees).
+User stories (dialog examples or scripts) can serve as both training sets and test sets if they can be generated in large volumes.
+These dialog/interaction examples could be gleaned from transcripts of human agents interracting with existing users.
 
 ## Crowd-Sourcing Development
 
@@ -165,3 +172,6 @@ Visually impaired developers might even be enlisted in training and software dev
 4. [Example Day in the Life of Visually Impaired in China](https://www.youtube.com/watch?v=XRWG4WhwXvI)
 5. [eSight enhances video to expand what lowsight users (legally blind) can see](https://www.esighteyewear.com/)
 6. [visualization of keras CNNs like VGG](https://github.com/experiencor/deep-viz-keras)
+7. [critical conversation between PM and developers about scenarios/conversations](https://youtu.be/21EiKfQYZXc?t=51m35s)
+
+

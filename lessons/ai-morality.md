@@ -118,6 +118,7 @@ cars don't move at intersection
 - [The Verge: Trolley Problem](https://www.theverge.com/2016/6/23/12010476/social-dilemma-autonomous-vehicles-car-moral-machine-trolley-problem)
 - [moral machine for android](http://androidforfree1.download/games/who-would-you-kill-moral-machine)
 - [Edmond Awad: Collective Intelligence, Group Argumentation, and logial ethics decisionmaking](http://web.media.mit.edu/~awad/)
+- [a realistic self-driving car ethical delimma](https://youtu.be/ixIoDYVfKA0)
 
 ### Advertising
 
@@ -126,5 +127,33 @@ If machines are good at manipulating us and are motivated by survival instincts 
 
 - [Andrew Ng: AI is focused on predicting Ads we'll click on, selling us stuff](https://www.youtube.com/watch?v=21EiKfQYZXc)
 
+
+### Non-virtuous Cycle of Hype
+
+[Ng isn't worried about Superintelligence](https://youtu.be/21EiKfQYZXc?t=39m8s)
+
+Ng feels it's a misallocation of resources (his friends are not involved in anti-evil AI research)?
+
+Ng is more concerned about job displacement by AI
+
+Andrew Ng's [lecture to Stanford MBA students](https://youtu.be/21EiKfQYZXc?t=41m36s) advises them to "sleep easy", worrying about evil AI is like worrying about overpopulation of Mars
+
+Andrew Ng dismisses the Trolly Problem as irrelevant. But [that assessment](https://youtu.be/21EiKfQYZXc) ignores the fact that the trolly problem is an analogy for a whole class of real-world ethical dilemmas that we make decisions about every day. And every self-driving car decision is a balance between safety of the driver and others in the environment or among various environmental elements including both animals and people. For example the tailgating distance for a self-driving car behind a human car has several effects that must be balanced with more than purely rational self-interest "in mind."
+
+* safety of the self-driving car occupants
+* safety of the human-driven car
+* safety of cars behind the self-driving car
+* speed of travel for the self-driving car
+* speed of travel for the cars nearby
+* safety of animals and pedestrians that might be ahead
+* fuel efficiency gain or loss from drafting
+* environmental impact from emissions and noise
+
+Of course these ethical dilemmas don't have as obvious or immediate effects as the alegory of the Trolley Problem, but because it will be a constant concern of every self-driving car in traffic, the decisions will have a huge impact.
+
+[Andrew Ng "sleep easy", worrying about evil AI is like worrying about overpopulation of Mars
+
+Ng seems to dismiss several reasonable arguments by smart people (see Surviving AI) without any analysis or thought.
+Seems like a false analogy. A more appropriate analogy might be worrying about the seeding of Mars with viral/bacteria life from Earth that destroys existing life on Mars or makes it uninhabitable.
 
 ~~~ENDSECTION~~~
