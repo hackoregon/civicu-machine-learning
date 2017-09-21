@@ -26,7 +26,8 @@
     * When will it affect my life?
         * Superintelligence has arrived (Corporations are cyborg societies)
         * Your life and your morality are already being influenced by Facebook, Google, etc
-        * University students are being taught by AI [chatbots]()
+        * University students are being taught by AI [chatbots](https://qz.com/1065818/ai-university/)
+        * AI can [detect your sexual orientation](https://www.gsb.stanford.edu/sites/gsb/files/publication-pdf/wang_kosinski.pdf)
     * Is prosocial behavior *adaptive*?
         * Social evolutionary dynamics predictions
         * [Simulations of evolution](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5241693/) suggest microbiome is to **blame** for altruism
