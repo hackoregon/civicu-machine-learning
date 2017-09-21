@@ -133,6 +133,12 @@ Difficult AU problems:
 Once you exceed human performance/accuracy, AI development progress slows.
 Humans can no longer have good instincts about the kinds of tweaks to the algorithm that might improve performacne beyond human performance.
 
+# Ethics
+
+- What ethical decisions will your algorithm have to make?
+- How will you evaluate the ethics of your algorithm?
+- How will ethics affect your cross validation
+
 # References
 
 [Andrew Ng lecture to Stanford MBA students 2017-01-25](https://www.youtube.com/watch?v=21EiKfQYZXc)

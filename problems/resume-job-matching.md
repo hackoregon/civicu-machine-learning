@@ -47,4 +47,4 @@ Describe some additional pipeline features
 
 - What ethical decisions will your algorithm have to make?
 - How will you evaluate the ethics of your algorithm?
-
+- How will ethics influence your cross-validation?

@@ -26,6 +26,7 @@
     * When will it affect my life?
         * Superintelligence has arrived (Corporations are cyborg societies)
         * Your life and your morality are already being influenced by Facebook, Google, etc
+        * University students are being taught by AI [chatbots]()
     * Is prosocial behavior *adaptive*?
         * Social evolutionary dynamics predictions
         * [Simulations of evolution](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5241693/) suggest microbiome is to **blame** for altruism
@@ -34,7 +35,12 @@
         * Tragedy of the commons
         * Prisoner's Dilemma
         * Trolley Problem
-        * 
+    * Game Theory & Social Evolutionary Dynamics
+        * Nash Equilibrium in business and AI
+        * There are no zero-sum games to "win" in the real world
+        * The Price equation
+        * Sexual selection in Machine Learning
+        * DL weight-sharing 
 * A solution?
     * Don't control, outcompete
     * Don't manipulate, collaborate
@@ -63,7 +69,7 @@ After motivating a deeper understanding of deep learning I'll provide concrete e
 
 ## Bio
 
-Hobson is the cofounder and President of Total Good, a nonprofit dedicate to propagating prosocial machine intelligence. Hobson has worked as the lead Data Scientist in a variety of industries, from consumer electronics to aerospace and robotics. Hobson has designed and built state-of-the art machine learning pipelines for laboratories at Northrop Grumman, Intel and Sharp Corporation, as well as startups like Talentpair, Building Energy, and Authority Labs. Hobson is the lead author of the book "Natural Language Processing In Action" to be published February 2018. Hobson thrives on sharing what he learns by contributing to open source projects, open science data sets and teaching at schools like Springboard and Hack Oregon's Hack University.
+Hobson is the cofounder and President of Total Good, a nonprofit dedicate to propagating prosocial machine intelligence. Hobson has worked as the lead Data Scientist in a variety of industries, from consumer electronics to aerospace and robotics. Hobson has designed and built state-of-the art machine learning pipelines for laboratories at Northrop Grumman, Intel, and Sharp Corp., as well as startups like Talentpair, Building Energy, and Authority Labs. Hobson is the lead author of "Natural Language Processing In Action" to be published February 2018. Hobson thrives on sharing what he learns, contributing to open source projects, open science data, and teaching at schools like Springboard and Hack Oregon.
 
 ## Prosocial Organism Examples
 
@@ -77,7 +83,7 @@ Hobson is the cofounder and President of Total Good, a nonprofit dedicate to pro
 
 ## Antisocial Organism Examples
 
-Some seemingling antisocial organisms and behaviors may be adaptive for an ecosystem as a whole
+Some seemingly antisocial organisms and behaviors may be adaptive for an ecosystem as a whole or at least for a community of organisms.
 
 - ant brain virus that causes them to climb grass and wait to be eaten
 - toxo plasmosis in humans increases risk-taking & risk-taking propelled homosapien ahead of neanderthal
