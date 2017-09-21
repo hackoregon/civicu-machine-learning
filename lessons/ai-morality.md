@@ -14,8 +14,8 @@
         * DL models are less explainable and tunable
         * Ng 1-second rule: DL can make most decisions faster and more accurately than a human
         * DL requires more data than ML (because models are more complex)
-* The control problem (why AI morality is important)
-    * Why is it a problem?
+* The control problem (AI morality motivation)
+    * What's the problem?
         * Elon Musk et. al. [open letter]() to UN
         * Superintelligence will be motivated by self-interest if predecessors are taught self-interest
         * [Militaries are weaonizing AI](https://futureoflife.org/open-letter-autonomous-weapons/)
@@ -26,15 +26,26 @@
     * When will it affect my life?
         * Superintelligence has arrived (Corporations are cyborg societies)
         * Your life and your morality are already being influenced by Facebook, Google, etc
-    * Is pro-social behavior *adaptive*?
+    * Is prosocial behavior *adaptive*?
         * Social evolutionary dynamics predictions
         * [Simulations of evolution](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5241693/) suggest microbiome is to **blame** for altruism
         * The origin of "spite" (maladaptive for individual, winning strategy for community)
-* The solution
-    * End-run around the control problem: don't control, outcompete
-    * Build systems that collaborate rather than manipulate
-    * Customer, community, partner "focus"
-    * Disturbing transparency (open science, open data, open source)
+    * Philosophy
+        * Tragedy of the commons
+        * Prisoner's Dilemma
+        * Trolley Problem
+        * 
+* A solution?
+    * Don't control, outcompete
+    * Don't manipulate, collaborate
+    * Teach the value of "other" and diversity
+        * Other companies
+        * Other AI
+        * Other people
+        * Other species
+        * Other perspectives (ensemble methods -> swarm-sourcing)
+    * Prioritize customer, community, 5-year investors over public equity investors
+    * Radical transparency (open science, open data, open source, open discussions)
     * Ruthless altruism (destroy antisocial competition)
     * Build business intelligence systems that "win" by helping your community
     * Never shirk your moral decision responsibility, no matter what the lawyers tell you
@@ -52,7 +63,7 @@ After motivating a deeper understanding of deep learning I'll provide concrete e
 
 ## Bio
 
-Hobson is the cofounder and President of the nonprofit Total Good. Hobson has worked as the lead Data Scientist in a variety of industries, from consumer electronics to aerospace and robotics. Hobson has designed and built state-of-the art machine learning pipelines for major corporate laboratories like Intel Labs and Sharp Labs, as well as startups like Talentpair and Building Energy. And Hobson is the lead author of the book "Natural Language Processing In Action" scheduled for publication by Manning Publishing in early 2018. Hobson thrives on sharing his experience in technology development by contributing to open source projects, open science data sets and teaching at schools like Springboard and Hack Oregon's Hack University.
+Hobson is the cofounder and President of Total Good, a nonprofit dedicate to propagating prosocial machine intelligence. Hobson has worked as the lead Data Scientist in a variety of industries, from consumer electronics to aerospace and robotics. Hobson has designed and built state-of-the art machine learning pipelines for laboratories at Northrop Grumman, Intel and Sharp Corporation, as well as startups like Talentpair, Building Energy, and Authority Labs. Hobson is the lead author of the book "Natural Language Processing In Action" to be published February 2018. Hobson thrives on sharing what he learns by contributing to open source projects, open science data sets and teaching at schools like Springboard and Hack Oregon's Hack University.
 
 ## Prosocial Organism Examples
 
