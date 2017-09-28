@@ -1,0 +1,1434 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://assets-cdn.github.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-77c3b874f32e71b14cded5a120f42f5c7288fa52e0a37f2d5919fbd8bcfca63c.css" integrity="sha256-d8O4dPMucbFM3tWhIPQvXHKI+lLgo38tWRn72Lz8pjw=" media="all" rel="stylesheet" />
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-b26db0ae2ea36d8768ca4550828f3430375f217de62c45eebbbae5b245ab680b.css" integrity="sha256-sm2wri6jbYdoykVQgo80MDdfIX3mLEXuu7rlskWraAs=" media="all" rel="stylesheet" />
+  
+  
+  
+  
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>Editing civicu-pythonii-summer-2017/songs.json at master · hackoregon/civicu-pythonii-summer-2017</title>
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    
+    <meta content="https://avatars1.githubusercontent.com/u/6343574?v=4&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="hackoregon/civicu-pythonii-summer-2017" property="og:title" /><meta content="https://github.com/hackoregon/civicu-pythonii-summer-2017" property="og:url" /><meta content="civicu-pythonii-summer-2017 - Repo for the Civic U summer Python II course" property="og:description" />
+
+  <link rel="assets" href="https://assets-cdn.github.com/">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTkwNzE0NzI5OmJiOTc5ZjQ0YWYzYTQ0Y2NlMTljYmIxZjk5M2NkOWIzNjViYjM2MDVlMDNhMjJmZmJmY2NlNDA3YTRkZDE2Y2I=--46e82bb117c75fe852e65bbe6e516c0e5f0f17af">
+  <meta name="pjax-timeout" content="1000">
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+  <meta name="request-id" content="B8AE:E9E6:1F097B5:301C76A:59920773" data-pjax-transient>
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+  <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+<meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+    <meta name="google-analytics" content="UA-3769691-2">
+
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="B8AE:E9E6:1F097B5:301C76A:59920773" name="octolytics-dimension-request_id" /><meta content="sea" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="292855" name="octolytics-actor-id" /><meta content="hobson" name="octolytics-actor-login" /><meta content="08c34322970ee3a805fd2bb22e724700208b38b7588b7d6248eb86b9ae56a30e" name="octolytics-actor-hash" />
+<meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/edit" data-pjax-transient="true" name="analytics-location" />
+
+
+
+
+  <meta class="js-ga-set" name="dimension1" content="Logged In">
+
+
+  
+
+      <meta name="hostname" content="github.com">
+  <meta name="user-login" content="hobson">
+
+      <meta name="expected-hostname" content="github.com">
+    <meta name="js-proxy-site-detection-payload" content="NGQ0YWM2MWEwZjY1NjI0Zjc2ZmZiNWY1YWIxY2JmMzFiMDc0NzM4YWY1MjViNzQ2YWEwYzA5YWU1MTU2ZjgyOXx7InJlbW90ZV9hZGRyZXNzIjoiMTc0LjEyNy4yMTYuNiIsInJlcXVlc3RfaWQiOiJCOEFFOkU5RTY6MUYwOTdCNTozMDFDNzZBOjU5OTIwNzczIiwidGltZXN0YW1wIjoxNTAyNzQyMzk2LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+
+    <meta name="enabled-features" content="UNIVERSE_BANNER">
+
+  <meta name="html-safe-nonce" content="e11ca3a6401cf0ff3baf046227514d30ed6aa8a0">
+
+  <meta http-equiv="x-pjax-version" content="15e4d8e0c62c24335e9abc3f4dcfbede">
+  
+
+      <link href="https://github.com/hackoregon/civicu-pythonii-summer-2017/commits/master.atom" rel="alternate" title="Recent Commits to civicu-pythonii-summer-2017:master" type="application/atom+xml">
+
+  <meta name="description" content="civicu-pythonii-summer-2017 - Repo for the Civic U summer Python II course">
+  <meta name="go-import" content="github.com/hackoregon/civicu-pythonii-summer-2017 git https://github.com/hackoregon/civicu-pythonii-summer-2017.git">
+
+  <meta content="6343574" name="octolytics-dimension-user_id" /><meta content="hackoregon" name="octolytics-dimension-user_login" /><meta content="96719417" name="octolytics-dimension-repository_id" /><meta content="hackoregon/civicu-pythonii-summer-2017" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="96719417" name="octolytics-dimension-repository_network_root_id" /><meta content="hackoregon/civicu-pythonii-summer-2017" name="octolytics-dimension-repository_network_root_nwo" /><meta content="true" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
+
+
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+  </head>
+
+  <body class="logged-in env-production page-edit-blob">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="#start-of-content" tabindex="1" class="bg-black text-white p-3 show-on-focus js-skip-to-content">Skip to content</a>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+    
+    
+    
+
+
+
+        
+<div class="header" role="banner">
+  <div class="container-lg px-3 clearfix">
+    <div class="d-flex flex-justify-between">
+      <div class="d-flex">
+        <a class="header-logo-invertocat" href="https://github.com/" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header, go to dashboard, icon:logo">
+  <svg aria-hidden="true" class="octicon octicon-mark-github" height="32" version="1.1" viewBox="0 0 16 16" width="32"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+
+
+            <div class="mr-2">
+              <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/hackoregon/civicu-pythonii-summer-2017/search" class="js-site-search-form" data-scoped-search-url="/hackoregon/civicu-pythonii-summer-2017/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <label class="form-control header-search-wrapper js-chromeless-input-container">
+        <a href="/hackoregon/civicu-pythonii-summer-2017/edit/master/student-work/mark_wheeler/August-9th/songs.json" class="header-search-scope no-underline">This repository</a>
+      <input type="text"
+        class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
+        data-hotkey="s"
+        name="q"
+        value=""
+        placeholder="Search"
+        aria-label="Search this repository"
+        data-unscoped-placeholder="Search GitHub"
+        data-scoped-placeholder="Search"
+        autocapitalize="off">
+        <input type="hidden" class="js-site-search-type-field" name="type" >
+    </label>
+</form></div>
+
+            </div>
+
+          <ul class="d-flex list-style-none" role="navigation">
+            <li>
+              <a href="/pulls" aria-label="Pull requests you created" class="js-selected-navigation-item header-navlink" data-ga-click="Header, click, Nav menu - item:pulls context:user" data-hotkey="g p" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls">
+                Pull requests
+</a>            </li>
+            <li>
+              <a href="/issues" aria-label="Issues you created" class="js-selected-navigation-item header-navlink" data-ga-click="Header, click, Nav menu - item:issues context:user" data-hotkey="g i" data-selected-links="/issues /issues/assigned /issues/mentioned /issues">
+                Issues
+</a>            </li>
+                <li>
+                  <a href="/marketplace" class="js-selected-navigation-item header-navlink" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-selected-links=" /marketplace">
+                    Marketplace
+</a>                </li>
+              <li>
+                <a class="header-navlink" href="https://gist.github.com/" data-ga-click="Header, go to gist, text:gist">Gist</a>
+              </li>
+          </ul>
+      </div>
+
+      <div class="d-flex">
+        
+<ul class="d-flex user-nav list-style-none" id="user-links">
+  <li class="dropdown js-menu-container">
+    
+      <a href="/notifications" aria-label="You have unread notifications" class="header-navlink notification-indicator tooltipped tooltipped-s js-socket-channel js-notification-indicator" data-channel="notification-changed:292855" data-ga-click="Header, go to notifications, icon:unread" data-hotkey="g n">
+          <span class="mail-status unread"></span>
+          <svg aria-hidden="true" class="octicon octicon-bell" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 12v1H0v-1l.73-.58c.77-.77.81-2.55 1.19-4.42C2.69 3.23 6 2 6 2c0-.55.45-1 1-1s1 .45 1 1c0 0 3.39 1.23 4.16 5 .38 1.88.42 3.66 1.19 4.42l.66.58H14zm-7 4c1.11 0 2-.89 2-2H5c0 1.11.89 2 2 2z"/></svg>
+</a>
+  </li>
+
+  <li class="dropdown js-menu-container">
+    <a class="header-navlink tooltipped tooltipped-s js-menu-target" href="/new"
+       aria-label="Create new…"
+       aria-expanded="false"
+       aria-haspopup="true"
+       data-ga-click="Header, create new, icon:add">
+      <svg aria-hidden="true" class="octicon octicon-plus float-left" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5z"/></svg>
+      <span class="dropdown-caret"></span>
+    </a>
+
+    <div class="dropdown-menu-content js-menu-content">
+      <ul class="dropdown-menu dropdown-menu-sw">
+        
+<a class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
+  New repository
+</a>
+
+  <a class="dropdown-item" href="/new/import" data-ga-click="Header, import a repository">
+    Import repository
+  </a>
+
+<a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, create new gist">
+  New gist
+</a>
+
+  <a class="dropdown-item" href="/organizations/new" data-ga-click="Header, create new organization">
+    New organization
+  </a>
+
+
+
+  <div class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="hackoregon/civicu-pythonii-summer-2017">This repository</span>
+  </div>
+    <a class="dropdown-item" href="/hackoregon/civicu-pythonii-summer-2017/issues/new" data-ga-click="Header, create new issue">
+      New issue
+    </a>
+
+      </ul>
+    </div>
+  </li>
+
+  <li class="dropdown js-menu-container">
+    <a class="header-navlink name tooltipped tooltipped-sw js-menu-target" href="/hobson"
+       aria-label="View profile and more"
+       aria-expanded="false"
+       aria-haspopup="true"
+       data-ga-click="Header, show menu, icon:avatar">
+      <img alt="@hobson" class="avatar" src="https://avatars2.githubusercontent.com/u/292855?v=4&amp;s=40" height="20" width="20">
+      <span class="dropdown-caret"></span>
+    </a>
+
+    <div class="dropdown-menu-content js-menu-content">
+      <div class="dropdown-menu dropdown-menu-sw">
+        <div class="dropdown-header header-nav-current-user css-truncate">
+          Signed in as <strong class="css-truncate-target">hobson</strong>
+        </div>
+
+        <div class="dropdown-divider"></div>
+
+        <a class="dropdown-item" href="/hobson" data-ga-click="Header, go to profile, text:your profile">
+          Your profile
+        </a>
+        <a class="dropdown-item" href="/hobson?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">
+          Your stars
+        </a>
+        <a class="dropdown-item" href="/explore" data-ga-click="Header, go to explore, text:explore">
+          Explore
+        </a>
+        <a class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">
+          Help
+        </a>
+
+        <div class="dropdown-divider"></div>
+
+        <a class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">
+          Settings
+        </a>
+
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="gttFFsa370Uoe+N2K84bQKzNqTsdaw8zPbx5LqDkL1NF2vboXk4LXD5/bdZ0OjpGtG2jbMRDBSKGefE4UrktXw==" /></div>
+          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+</form>      </div>
+    </div>
+  </li>
+</ul>
+
+
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+n9HaKynpOkqjUbNrA/hCBjZWGWQR/gaj3K5S1VVoN89fvSWNF5A8DyJyG3z+8AOAHlSMklv8gs0tzFdpwii0w==" /></div>
+          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+</form>      </div>
+    </div>
+  </div>
+</div>
+
+
+      
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+    <div id="js-flash-container">
+</div>
+
+
+
+  <div role="main">
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode">
+    <div id="js-repo-pjax-container" data-pjax-container>
+      
+
+
+  
+
+
+
+    <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav">
+      <div class="container repohead-details-container">
+
+        <ul class="pagehead-actions">
+  <li>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="VcZEyWmenbP0Np+Tp/gCf4Jy+qsBXVCsDAohnBQnRvHe99dZ1BUiKJekgDnZZTRov3Hja1nGat77gvyemP8kMw==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="96719417" />
+
+        <div class="select-menu js-menu-container js-select-menu">
+          <a href="/hackoregon/civicu-pythonii-summer-2017/subscription"
+            class="btn btn-sm btn-with-count select-menu-button js-menu-target"
+            role="button"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-label="Toggle repository notifications menu"
+            data-ga-click="Repository, click Watch settings, action:blob#edit">
+            <span class="js-select-button">
+                <svg aria-hidden="true" class="octicon octicon-eye" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                Unwatch
+            </span>
+          </a>
+            <a class="social-count js-social-count"
+              href="/hackoregon/civicu-pythonii-summer-2017/watchers"
+              aria-label="11 users are watching this repository">
+              11
+            </a>
+
+        <div class="select-menu-modal-holder">
+          <div class="select-menu-modal subscription-menu-modal js-menu-content">
+            <div class="select-menu-header js-navigation-enable" tabindex="-1">
+              <svg aria-label="Close" class="octicon octicon-x js-menu-close" height="16" role="img" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+              <span class="select-menu-title">Notifications</span>
+            </div>
+
+              <div class="select-menu-list js-navigation-container" role="menu">
+
+                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                  <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input id="do_included" name="do" type="radio" value="included" />
+                    <span class="select-menu-item-heading">Not watching</span>
+                    <span class="description">Be notified when participating or @mentioned.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg aria-hidden="true" class="octicon octicon-eye" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                      Watch
+                    </span>
+                  </div>
+                </div>
+
+                <div class="select-menu-item js-navigation-item selected" role="menuitem" tabindex="0">
+                  <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input checked="checked" id="do_subscribed" name="do" type="radio" value="subscribed" />
+                    <span class="select-menu-item-heading">Watching</span>
+                    <span class="description">Be notified of all conversations.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg aria-hidden="true" class="octicon octicon-eye" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                        Unwatch
+                    </span>
+                  </div>
+                </div>
+
+                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                  <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input id="do_ignore" name="do" type="radio" value="ignore" />
+                    <span class="select-menu-item-heading">Ignoring</span>
+                    <span class="description">Never be notified.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg aria-hidden="true" class="octicon octicon-mute" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z"/></svg>
+                        Stop ignoring
+                    </span>
+                  </div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+</form>
+  </li>
+
+  <li>
+    
+  <div class="js-toggler-container js-social-container starring-container ">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/hackoregon/civicu-pythonii-summer-2017/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="AK7IvMtEmKsLQecHIjYSQvmPPsu6EzmSRjvGkU3gzcnTb2yVN8Ls66uW3JJFEpjc84qeXkEXEM5GCI8CLGQqZg==" /></div>
+      <button
+        type="submit"
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Unstar this repository" title="Unstar hackoregon/civicu-pythonii-summer-2017"
+        data-ga-click="Repository, click unstar button, action:blob#edit; text:Unstar">
+        <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
+        Unstar
+      </button>
+        <a class="social-count js-social-count" href="/hackoregon/civicu-pythonii-summer-2017/stargazers"
+           aria-label="0 users starred this repository">
+          0
+        </a>
+</form>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/hackoregon/civicu-pythonii-summer-2017/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="pDittiwtNWtvjMlnZ7xFUNwQ5c0F2Ljxdnha7+4nM4+XKIpYzRQqZaHYET+bTcP/ispO7bMsGzcIL8AoMFbCEA==" /></div>
+      <button
+        type="submit"
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Star this repository" title="Star hackoregon/civicu-pythonii-summer-2017"
+        data-ga-click="Repository, click star button, action:blob#edit; text:Star">
+        <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
+        Star
+      </button>
+        <a class="social-count js-social-count" href="/hackoregon/civicu-pythonii-summer-2017/stargazers"
+           aria-label="0 users starred this repository">
+          0
+        </a>
+</form>  </div>
+
+  </li>
+
+  <li>
+          <a href="#fork-destination-box" class="btn btn-sm btn-with-count"
+              title="Fork your own copy of hackoregon/civicu-pythonii-summer-2017 to your account"
+              aria-label="Fork your own copy of hackoregon/civicu-pythonii-summer-2017 to your account"
+              rel="facebox"
+              data-ga-click="Repository, show fork modal, action:blob#edit; text:Fork">
+              <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+            Fork
+          </a>
+
+          <div id="fork-destination-box" style="display: none;">
+            <h2 class="facebox-header" data-facebox-id="facebox-header">Where should we fork this repository?</h2>
+            <include-fragment src=""
+                class="js-fork-select-fragment fork-select-fragment"
+                data-url="/hackoregon/civicu-pythonii-summer-2017/fork?fragment=1">
+              <img alt="Loading" height="64" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif" width="64" />
+            </include-fragment>
+          </div>
+
+    <a href="/hackoregon/civicu-pythonii-summer-2017/network" class="social-count"
+       aria-label="19 users forked this repository">
+      19
+    </a>
+  </li>
+</ul>
+
+        <h1 class="public ">
+  <svg aria-hidden="true" class="octicon octicon-repo" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a href="/hackoregon" class="url fn" rel="author">hackoregon</a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong itemprop="name"><a href="/hackoregon/civicu-pythonii-summer-2017" data-pjax="#js-repo-pjax-container">civicu-pythonii-summer-2017</a></strong>
+
+</h1>
+
+      </div>
+      <div class="container">
+        
+<nav class="reponav js-repo-nav js-sidenav-container-pjax"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+     role="navigation"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a href="/hackoregon/civicu-pythonii-summer-2017" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /hackoregon/civicu-pythonii-summer-2017" itemprop="url">
+      <svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a href="/hackoregon/civicu-pythonii-summer-2017/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /hackoregon/civicu-pythonii-summer-2017/issues" itemprop="url">
+        <svg aria-hidden="true" class="octicon octicon-issue-opened" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a href="/hackoregon/civicu-pythonii-summer-2017/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /hackoregon/civicu-pythonii-summer-2017/pulls" itemprop="url">
+      <svg aria-hidden="true" class="octicon octicon-git-pull-request" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span itemprop="name">Pull requests</span>
+      <span class="Counter">1</span>
+      <meta itemprop="position" content="3">
+</a>  </span>
+
+    <a href="/hackoregon/civicu-pythonii-summer-2017/projects" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /hackoregon/civicu-pythonii-summer-2017/projects">
+      <svg aria-hidden="true" class="octicon octicon-project" height="16" version="1.1" viewBox="0 0 15 16" width="15"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      Projects
+      <span class="Counter" >0</span>
+</a>
+    <a href="/hackoregon/civicu-pythonii-summer-2017/wiki" class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /hackoregon/civicu-pythonii-summer-2017/wiki">
+      <svg aria-hidden="true" class="octicon octicon-book" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
+      Wiki
+</a>
+      <a href="/hackoregon/civicu-pythonii-summer-2017/settings" class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations /hackoregon/civicu-pythonii-summer-2017/settings">
+        <svg aria-hidden="true" class="octicon octicon-gear" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg>
+        Settings
+</a>
+    <div class="reponav-dropdown js-menu-container">
+      <button type="button" class="btn-link reponav-item reponav-dropdown js-menu-target " data-no-toggle aria-expanded="false" aria-haspopup="true">
+        Insights
+        <svg aria-hidden="true" class="octicon octicon-triangle-down v-align-middle text-gray" height="11" version="1.1" viewBox="0 0 12 16" width="8"><path fill-rule="evenodd" d="M0 5l6 6 6-6z"/></svg>
+      </button>
+      <div class="dropdown-menu-content js-menu-content">
+        <div class="dropdown-menu dropdown-menu-sw">
+            <a class="dropdown-item" href="/hackoregon/civicu-pythonii-summer-2017/community" data-skip-pjax>
+              <svg aria-hidden="true" class="octicon octicon-heart" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11.2 3c-.52-.63-1.25-.95-2.2-1-.97 0-1.69.42-2.2 1-.51.58-.78.92-.8 1-.02-.08-.28-.42-.8-1-.52-.58-1.17-1-2.2-1-.95.05-1.69.38-2.2 1-.52.61-.78 1.28-.8 2 0 .52.09 1.52.67 2.67C1.25 8.82 3.01 10.61 6 13c2.98-2.39 4.77-4.17 5.34-5.33C11.91 6.51 12 5.5 12 5c-.02-.72-.28-1.39-.8-2.02V3z"/></svg>
+              <span itemprop="name">Community</span>
+            </a>
+          <a class="dropdown-item" href="/hackoregon/civicu-pythonii-summer-2017/pulse" data-skip-pjax>
+            <svg aria-hidden="true" class="octicon octicon-pulse" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M11.5 8L8.8 5.4 6.6 8.5 5.5 1.6 2.38 8H0v2h3.6l.9-1.8.9 5.4L9 8.5l1.6 1.5H14V8z"/></svg>
+            Pulse
+          </a>
+          <a class="dropdown-item" href="/hackoregon/civicu-pythonii-summer-2017/graphs" data-skip-pjax>
+            <svg aria-hidden="true" class="octicon octicon-graph" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
+            Graphs
+          </a>
+        </div>
+      </div>
+    </div>
+</nav>
+
+      </div>
+    </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav">
+  <div class="repository-content">
+
+    
+
+
+  
+
+
+  <div class="file-box">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/hackoregon/civicu-pythonii-summer-2017/preview/master/student-work/mark_wheeler/August-9th/songs.json" class="d-none js-blob-preview-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="C91VwLMR5H4ZvdthgfYGaKn51Jf+Hvy77kZLQ7guJrhGZHwpRSqi/LWLt8euxVeNlvEIVh88k3wE1U3yDNliqw==" /></div>
+      <input type="hidden" name="code">
+      <input type="hidden" name="commit">
+      <input type="hidden" name="blobname">
+      <input type="hidden" name="willcreatebranch">
+      <input type="hidden" name="checkConflict">
+</form>    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/hackoregon/civicu-pythonii-summer-2017/tree-save/master/student-work/mark_wheeler/August-9th/songs.json" class="js-blob-form" data-github-confirm-unload="Your edits will be lost." id="new_blob" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="s1jYpUk61n+m6f2GnEocHzNjlAUllTvkQWD2s0FXNnscaLEZ2aLoXpysBsrVVZ4JHIXPB9nLfCIE5LKU/ge5GA==" /></div>
+      
+
+<div class="breadcrumb js-zeroclipboard-container">
+    <div class="editor-gitignore-template js-gitignore-template js-template-suggestion d-none" data-template-suggestion-pattern="^(.+\/)?\.gitignore$">
+      Want to use a <code>.gitignore</code> template?
+      <span class="select-menu js-menu-container js-select-menu">
+  <button class="btn btn-sm select-menu-button js-menu-target" aria-haspopup="true" aria-expanded="false" type="button">
+    <i>Choose .gitignore:</i>
+    <span class="js-select-button">None</span>
+  </button>
+
+  <div class="select-menu-modal-holder select-menu-git-ignore js-menu-content js-navigation-container">
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <svg aria-label="Close" class="octicon octicon-x js-menu-close" height="16" role="img" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+        <span class="select-menu-title">.gitignore</span>
+      </div>
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" id="context-ignore-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Filter ignores&hellip;" aria-label="Choose .gitignore type">
+        </div>
+      </div>
+
+      <div class="select-menu-list" role="menu">
+        <div data-filterable-for="context-ignore-filter-field">
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Actionscript" id="gitignore-actionscript_Actionscript" name="gitignore-actionscript" type="radio" value="Actionscript" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Actionscript</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Ada" id="gitignore-ada_Ada" name="gitignore-ada" type="radio" value="Ada" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Ada</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Agda" id="gitignore-agda_Agda" name="gitignore-agda" type="radio" value="Agda" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Agda</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Android" id="gitignore-android_Android" name="gitignore-android" type="radio" value="Android" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Android</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/AppEngine" id="gitignore-appengine_AppEngine" name="gitignore-appengine" type="radio" value="AppEngine" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">AppEngine</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/AppceleratorTitanium" id="gitignore-appceleratortitanium_AppceleratorTitanium" name="gitignore-appceleratortitanium" type="radio" value="AppceleratorTitanium" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">AppceleratorTitanium</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/ArchLinuxPackages" id="gitignore-archlinuxpackages_ArchLinuxPackages" name="gitignore-archlinuxpackages" type="radio" value="ArchLinuxPackages" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">ArchLinuxPackages</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Autotools" id="gitignore-autotools_Autotools" name="gitignore-autotools" type="radio" value="Autotools" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Autotools</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/C" id="gitignore-c_C" name="gitignore-c" type="radio" value="C" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">C</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/C++" id="gitignore-c___C__" name="gitignore-c++" type="radio" value="C++" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">C++</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/CFWheels" id="gitignore-cfwheels_CFWheels" name="gitignore-cfwheels" type="radio" value="CFWheels" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">CFWheels</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/CMake" id="gitignore-cmake_CMake" name="gitignore-cmake" type="radio" value="CMake" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">CMake</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/CUDA" id="gitignore-cuda_CUDA" name="gitignore-cuda" type="radio" value="CUDA" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">CUDA</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/CakePHP" id="gitignore-cakephp_CakePHP" name="gitignore-cakephp" type="radio" value="CakePHP" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">CakePHP</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/ChefCookbook" id="gitignore-chefcookbook_ChefCookbook" name="gitignore-chefcookbook" type="radio" value="ChefCookbook" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">ChefCookbook</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Clojure" id="gitignore-clojure_Clojure" name="gitignore-clojure" type="radio" value="Clojure" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Clojure</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/CodeIgniter" id="gitignore-codeigniter_CodeIgniter" name="gitignore-codeigniter" type="radio" value="CodeIgniter" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">CodeIgniter</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/CommonLisp" id="gitignore-commonlisp_CommonLisp" name="gitignore-commonlisp" type="radio" value="CommonLisp" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">CommonLisp</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Composer" id="gitignore-composer_Composer" name="gitignore-composer" type="radio" value="Composer" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Composer</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Concrete5" id="gitignore-concrete5_Concrete5" name="gitignore-concrete5" type="radio" value="Concrete5" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Concrete5</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Coq" id="gitignore-coq_Coq" name="gitignore-coq" type="radio" value="Coq" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Coq</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/CraftCMS" id="gitignore-craftcms_CraftCMS" name="gitignore-craftcms" type="radio" value="CraftCMS" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">CraftCMS</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/D" id="gitignore-d_D" name="gitignore-d" type="radio" value="D" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">D</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/DM" id="gitignore-dm_DM" name="gitignore-dm" type="radio" value="DM" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">DM</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Dart" id="gitignore-dart_Dart" name="gitignore-dart" type="radio" value="Dart" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Dart</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Delphi" id="gitignore-delphi_Delphi" name="gitignore-delphi" type="radio" value="Delphi" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Delphi</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Drupal" id="gitignore-drupal_Drupal" name="gitignore-drupal" type="radio" value="Drupal" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Drupal</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/EPiServer" id="gitignore-episerver_EPiServer" name="gitignore-episerver" type="radio" value="EPiServer" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">EPiServer</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Eagle" id="gitignore-eagle_Eagle" name="gitignore-eagle" type="radio" value="Eagle" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Eagle</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Elisp" id="gitignore-elisp_Elisp" name="gitignore-elisp" type="radio" value="Elisp" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Elisp</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Elixir" id="gitignore-elixir_Elixir" name="gitignore-elixir" type="radio" value="Elixir" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Elixir</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Elm" id="gitignore-elm_Elm" name="gitignore-elm" type="radio" value="Elm" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Elm</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Erlang" id="gitignore-erlang_Erlang" name="gitignore-erlang" type="radio" value="Erlang" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Erlang</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/ExpressionEngine" id="gitignore-expressionengine_ExpressionEngine" name="gitignore-expressionengine" type="radio" value="ExpressionEngine" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">ExpressionEngine</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/ExtJs" id="gitignore-extjs_ExtJs" name="gitignore-extjs" type="radio" value="ExtJs" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">ExtJs</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Fancy" id="gitignore-fancy_Fancy" name="gitignore-fancy" type="radio" value="Fancy" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Fancy</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Finale" id="gitignore-finale_Finale" name="gitignore-finale" type="radio" value="Finale" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Finale</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/ForceDotCom" id="gitignore-forcedotcom_ForceDotCom" name="gitignore-forcedotcom" type="radio" value="ForceDotCom" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">ForceDotCom</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Fortran" id="gitignore-fortran_Fortran" name="gitignore-fortran" type="radio" value="Fortran" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Fortran</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/FuelPHP" id="gitignore-fuelphp_FuelPHP" name="gitignore-fuelphp" type="radio" value="FuelPHP" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">FuelPHP</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/GWT" id="gitignore-gwt_GWT" name="gitignore-gwt" type="radio" value="GWT" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">GWT</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/GitBook" id="gitignore-gitbook_GitBook" name="gitignore-gitbook" type="radio" value="GitBook" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">GitBook</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Go" id="gitignore-go_Go" name="gitignore-go" type="radio" value="Go" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Go</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Gradle" id="gitignore-gradle_Gradle" name="gitignore-gradle" type="radio" value="Gradle" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Gradle</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Grails" id="gitignore-grails_Grails" name="gitignore-grails" type="radio" value="Grails" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Grails</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Haskell" id="gitignore-haskell_Haskell" name="gitignore-haskell" type="radio" value="Haskell" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Haskell</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/IGORPro" id="gitignore-igorpro_IGORPro" name="gitignore-igorpro" type="radio" value="IGORPro" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">IGORPro</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Idris" id="gitignore-idris_Idris" name="gitignore-idris" type="radio" value="Idris" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Idris</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Java" id="gitignore-java_Java" name="gitignore-java" type="radio" value="Java" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Java</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Jboss" id="gitignore-jboss_Jboss" name="gitignore-jboss" type="radio" value="Jboss" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Jboss</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Jekyll" id="gitignore-jekyll_Jekyll" name="gitignore-jekyll" type="radio" value="Jekyll" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Jekyll</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Joomla" id="gitignore-joomla_Joomla" name="gitignore-joomla" type="radio" value="Joomla" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Joomla</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Julia" id="gitignore-julia_Julia" name="gitignore-julia" type="radio" value="Julia" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Julia</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/KiCAD" id="gitignore-kicad_KiCAD" name="gitignore-kicad" type="radio" value="KiCAD" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">KiCAD</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Kohana" id="gitignore-kohana_Kohana" name="gitignore-kohana" type="radio" value="Kohana" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Kohana</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/LabVIEW" id="gitignore-labview_LabVIEW" name="gitignore-labview" type="radio" value="LabVIEW" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">LabVIEW</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Laravel" id="gitignore-laravel_Laravel" name="gitignore-laravel" type="radio" value="Laravel" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Laravel</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Leiningen" id="gitignore-leiningen_Leiningen" name="gitignore-leiningen" type="radio" value="Leiningen" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Leiningen</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/LemonStand" id="gitignore-lemonstand_LemonStand" name="gitignore-lemonstand" type="radio" value="LemonStand" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">LemonStand</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Lilypond" id="gitignore-lilypond_Lilypond" name="gitignore-lilypond" type="radio" value="Lilypond" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Lilypond</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Lithium" id="gitignore-lithium_Lithium" name="gitignore-lithium" type="radio" value="Lithium" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Lithium</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Lua" id="gitignore-lua_Lua" name="gitignore-lua" type="radio" value="Lua" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Lua</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Magento" id="gitignore-magento_Magento" name="gitignore-magento" type="radio" value="Magento" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Magento</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Maven" id="gitignore-maven_Maven" name="gitignore-maven" type="radio" value="Maven" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Maven</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Mercury" id="gitignore-mercury_Mercury" name="gitignore-mercury" type="radio" value="Mercury" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Mercury</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/MetaProgrammingSystem" id="gitignore-metaprogrammingsystem_MetaProgrammingSystem" name="gitignore-metaprogrammingsystem" type="radio" value="MetaProgrammingSystem" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">MetaProgrammingSystem</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Nim" id="gitignore-nim_Nim" name="gitignore-nim" type="radio" value="Nim" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Nim</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Node" id="gitignore-node_Node" name="gitignore-node" type="radio" value="Node" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Node</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/OCaml" id="gitignore-ocaml_OCaml" name="gitignore-ocaml" type="radio" value="OCaml" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">OCaml</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Objective-C" id="gitignore-objective-c_Objective-C" name="gitignore-objective-c" type="radio" value="Objective-C" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Objective-C</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Opa" id="gitignore-opa_Opa" name="gitignore-opa" type="radio" value="Opa" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Opa</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/OracleForms" id="gitignore-oracleforms_OracleForms" name="gitignore-oracleforms" type="radio" value="OracleForms" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">OracleForms</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Packer" id="gitignore-packer_Packer" name="gitignore-packer" type="radio" value="Packer" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Packer</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Perl" id="gitignore-perl_Perl" name="gitignore-perl" type="radio" value="Perl" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Perl</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Phalcon" id="gitignore-phalcon_Phalcon" name="gitignore-phalcon" type="radio" value="Phalcon" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Phalcon</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/PlayFramework" id="gitignore-playframework_PlayFramework" name="gitignore-playframework" type="radio" value="PlayFramework" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">PlayFramework</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Plone" id="gitignore-plone_Plone" name="gitignore-plone" type="radio" value="Plone" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Plone</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Prestashop" id="gitignore-prestashop_Prestashop" name="gitignore-prestashop" type="radio" value="Prestashop" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Prestashop</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Processing" id="gitignore-processing_Processing" name="gitignore-processing" type="radio" value="Processing" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Processing</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/PureScript" id="gitignore-purescript_PureScript" name="gitignore-purescript" type="radio" value="PureScript" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">PureScript</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Python" id="gitignore-python_Python" name="gitignore-python" type="radio" value="Python" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Python</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Qooxdoo" id="gitignore-qooxdoo_Qooxdoo" name="gitignore-qooxdoo" type="radio" value="Qooxdoo" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Qooxdoo</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Qt" id="gitignore-qt_Qt" name="gitignore-qt" type="radio" value="Qt" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Qt</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/R" id="gitignore-r_R" name="gitignore-r" type="radio" value="R" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">R</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/ROS" id="gitignore-ros_ROS" name="gitignore-ros" type="radio" value="ROS" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">ROS</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Rails" id="gitignore-rails_Rails" name="gitignore-rails" type="radio" value="Rails" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Rails</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/RhodesRhomobile" id="gitignore-rhodesrhomobile_RhodesRhomobile" name="gitignore-rhodesrhomobile" type="radio" value="RhodesRhomobile" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">RhodesRhomobile</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Ruby" id="gitignore-ruby_Ruby" name="gitignore-ruby" type="radio" value="Ruby" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Ruby</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Rust" id="gitignore-rust_Rust" name="gitignore-rust" type="radio" value="Rust" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Rust</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/SCons" id="gitignore-scons_SCons" name="gitignore-scons" type="radio" value="SCons" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">SCons</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Sass" id="gitignore-sass_Sass" name="gitignore-sass" type="radio" value="Sass" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Sass</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Scala" id="gitignore-scala_Scala" name="gitignore-scala" type="radio" value="Scala" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Scala</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Scheme" id="gitignore-scheme_Scheme" name="gitignore-scheme" type="radio" value="Scheme" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Scheme</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Scrivener" id="gitignore-scrivener_Scrivener" name="gitignore-scrivener" type="radio" value="Scrivener" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Scrivener</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Sdcc" id="gitignore-sdcc_Sdcc" name="gitignore-sdcc" type="radio" value="Sdcc" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Sdcc</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/SeamGen" id="gitignore-seamgen_SeamGen" name="gitignore-seamgen" type="radio" value="SeamGen" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">SeamGen</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/SketchUp" id="gitignore-sketchup_SketchUp" name="gitignore-sketchup" type="radio" value="SketchUp" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">SketchUp</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Smalltalk" id="gitignore-smalltalk_Smalltalk" name="gitignore-smalltalk" type="radio" value="Smalltalk" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Smalltalk</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/SugarCRM" id="gitignore-sugarcrm_SugarCRM" name="gitignore-sugarcrm" type="radio" value="SugarCRM" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">SugarCRM</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Swift" id="gitignore-swift_Swift" name="gitignore-swift" type="radio" value="Swift" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Swift</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Symfony" id="gitignore-symfony_Symfony" name="gitignore-symfony" type="radio" value="Symfony" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Symfony</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/SymphonyCMS" id="gitignore-symphonycms_SymphonyCMS" name="gitignore-symphonycms" type="radio" value="SymphonyCMS" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">SymphonyCMS</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/TeX" id="gitignore-tex_TeX" name="gitignore-tex" type="radio" value="TeX" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">TeX</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Terraform" id="gitignore-terraform_Terraform" name="gitignore-terraform" type="radio" value="Terraform" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Terraform</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Textpattern" id="gitignore-textpattern_Textpattern" name="gitignore-textpattern" type="radio" value="Textpattern" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Textpattern</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/TurboGears2" id="gitignore-turbogears2_TurboGears2" name="gitignore-turbogears2" type="radio" value="TurboGears2" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">TurboGears2</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Typo3" id="gitignore-typo3_Typo3" name="gitignore-typo3" type="radio" value="Typo3" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Typo3</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Umbraco" id="gitignore-umbraco_Umbraco" name="gitignore-umbraco" type="radio" value="Umbraco" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Umbraco</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Unity" id="gitignore-unity_Unity" name="gitignore-unity" type="radio" value="Unity" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Unity</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/UnrealEngine" id="gitignore-unrealengine_UnrealEngine" name="gitignore-unrealengine" type="radio" value="UnrealEngine" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">UnrealEngine</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/VVVV" id="gitignore-vvvv_VVVV" name="gitignore-vvvv" type="radio" value="VVVV" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">VVVV</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/VisualStudio" id="gitignore-visualstudio_VisualStudio" name="gitignore-visualstudio" type="radio" value="VisualStudio" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">VisualStudio</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Waf" id="gitignore-waf_Waf" name="gitignore-waf" type="radio" value="Waf" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Waf</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/WordPress" id="gitignore-wordpress_WordPress" name="gitignore-wordpress" type="radio" value="WordPress" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">WordPress</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Xojo" id="gitignore-xojo_Xojo" name="gitignore-xojo" type="radio" value="Xojo" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Xojo</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Yeoman" id="gitignore-yeoman_Yeoman" name="gitignore-yeoman" type="radio" value="Yeoman" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Yeoman</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Yii" id="gitignore-yii_Yii" name="gitignore-yii" type="radio" value="Yii" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Yii</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/ZendFramework" id="gitignore-zendframework_ZendFramework" name="gitignore-zendframework" type="radio" value="ZendFramework" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">ZendFramework</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/Zephir" id="gitignore-zephir_Zephir" name="gitignore-zephir" type="radio" value="Zephir" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">Zephir</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/gcov" id="gitignore-gcov_gcov" name="gitignore-gcov" type="radio" value="gcov" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">gcov</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/nanoc" id="gitignore-nanoc_nanoc" name="gitignore-nanoc" type="radio" value="nanoc" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">nanoc</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/opencart" id="gitignore-opencart_opencart" name="gitignore-opencart" type="radio" value="opencart" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">opencart</div>
+            </div>
+            <div class="select-menu-item js-navigation-item" role="menuitem">
+              <input data-template-url="https://github.com/site/gitignore/stella" id="gitignore-stella_stella" name="gitignore-stella" type="radio" value="stella" />
+              <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <div class="select-menu-item-text js-select-button-text">stella</div>
+            </div>
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+    </div>
+  </div>
+</span>
+
+    </div>
+      <div class="editor-license-template js-license-template js-template-suggestion d-none" data-template-suggestion-pattern="^(.+\/)?(licen[sc]e|copying)($|\.)">
+          <a class="btn btn-sm" data-template-button href="/hackoregon/civicu-pythonii-summer-2017/community/license/new?branch=master">Choose a license template</a>
+      </div>
+      <div class="editor-code-of-conduct-template js-template-suggestion d-none" data-template-suggestion-pattern="^(code.?of.?conduct|coc)($|\.)">
+        <a class="btn btn-sm" data-template-button href="/hackoregon/civicu-pythonii-summer-2017/community/code-of-conduct/new">Choose a code of conduct template</a>
+      </div>
+
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/hackoregon/civicu-pythonii-summer-2017"><span>civicu-pythonii-summer-2017</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/hackoregon/civicu-pythonii-summer-2017/tree/master/student-work"><span>student-work</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/hackoregon/civicu-pythonii-summer-2017/tree/master/student-work/mark_wheeler"><span>mark_wheeler</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/hackoregon/civicu-pythonii-summer-2017/tree/master/student-work/mark_wheeler/August-9th"><span>August-9th</span></a></span><span class="separator">/</span>
+    <input type="text" class="form-control js-blob-filename js-breadcrumb-nav" name="filename"
+      value="songs.json" placeholder="Name your file…" aria-label="Name your file…"
+      >
+    <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><svg aria-hidden="true" class="octicon octicon-clippy" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"/></svg></button>
+    <span class="editor-abort">or <a href="/hackoregon/civicu-pythonii-summer-2017/blob/master/student-work/mark_wheeler/August-9th/songs.json">cancel</a></span>
+    <input type="hidden" name="new_filename" class="js-new-filename-field js-zeroclipboard-target" value="student-work/mark_wheeler/August-9th/songs.json">
+    <div class="d-none">
+      <span class="js-crumb-template js-path-segment"><a href="" data-branch="" data-pjax="true"><span>REPLACEME</span></a></span>
+      <span class="separator js-crumb-separator">/</span>
+    </div>
+</div>
+
+<input type="hidden" name="commit" class="js-commit-oid" value="8233977bedeecac97ed783f2a8beef843b252d5b">
+  <input type="hidden" name="same_repo" value="1">
+
+<input type="hidden" name="pr" value="">
+
+
+
+<div class="file js-code-editor container-preview show-code" data-github-confirm-unload="false" >
+  <div class="file-header">
+      <div class="file-actions">
+        <select class="form-select select-sm js-code-indent-mode">
+          <optgroup label="Indent mode">
+            <option value="space" selected="selected">Spaces</option>
+<option value="tab">Tabs</option>
+          </optgroup>
+        </select>
+
+        <select class="form-select select-sm js-code-indent-width">
+          <optgroup label="Indent size">
+            <option value="2" selected="selected">2</option>
+<option value="4">4</option>
+<option value="8">8</option>
+          </optgroup>
+        </select>
+
+        <select class="form-select select-sm js-code-wrap-mode">
+          <optgroup label="Line wrap mode">
+            <option value="off" selected="selected">No wrap</option>
+<option value="on">Soft wrap</option>
+          </optgroup>
+        </select>
+      </div>
+
+        <nav class="tabnav-tabs">
+          <button type="button" class="btn-link code selected tabnav-tab js-blob-edit-code">
+            <svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+            Edit file
+          </button>
+          <button type="button" class="btn-link preview tabnav-tab js-blob-edit-preview">
+            <svg aria-hidden="true" class="octicon octicon-eye" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+            Preview changes
+          </button>
+        </nav>
+  </div>
+
+  <input type="hidden" name="content_changed" class="js-blob-contents-changed" value="">
+
+
+  <div class="commit-create">
+    <textarea id="blob_contents_songs-json"
+      class="form-control file-editor-textarea js-blob-contents js-code-textarea"
+      rows="35" name="value"
+      data-filename="songs.json"
+      data-codemirror-mode="application/json"
+      data-allow-unchanged=""
+      placeholder="Enter file contents here"
+      aria-label="Enter file contents here"
+      spellcheck="false"
+      autofocus>
+[{&quot;id&quot;:1267,&quot;artist_name&quot;:&quot;A&quot;,&quot;song_title&quot;:&quot;Turn It Up&quot;,&quot;song_year&quot;:1997,&quot;song_lyrics&quot;:&quot;Turn it upI don&#39;t know where you&#39;re plugging inListen upYeah we&#39;re all set to beginTurn it upBecause we hope you like it loudTune it upAny second nowMaking likeCheeky Monkey grinsAnd for tonightI&#39;d love to let you in&quot;},{&quot;id&quot;:1268,&quot;artist_name&quot;:&quot;A&quot;,&quot;song_title&quot;:&quot;Foghorn&quot;,&quot;song_year&quot;:1997,&quot;song_lyrics&quot;:&quot;Sick of you how old do you think you are?Never move you think everything&#39;s too farTelling you you&#39;re a fool but you don&#39;t wanna knowYou think you do but let me tell you you&#39;re not even close I can&#39;t stay you&#39;re in the way soListen when I&#39;m talking(x4) It&#39;s better than alrightI&#39;m out there every nightYou said to me you mightBut you won&#39;t What kept you? I&#39;m not bothered any moreComplacent got me headed for the doorFoot down you&#39;re not allowed to look outsideYou&#39;re frightened you&#39;ll find something that you like I can&#39;t stay you&#39;re in the way soListen when I&#39;m talking(x4) You tell me when I shouldI don&#39;t drink in your pubWhat makes you think I wouldRound your way? I don&#39;t feel bad I don&#39;t look back (x3) Shame on you you hate everything that&#39;s newYou look down your nose at everything I doYou catch on years later you&#39;re not even slowCan&#39;t stay have a good day now I&#39;ve gotta goI can&#39;t stay you&#39;re in the way soListen when I&#39;m talking(Repeat) It&#39;s better than alrightI&#39;m out there every nightYou said to me you mightWhen I&#39;m talking It&#39;s better than alrightI&#39;m out there every nightYou said to me you mightWhen I won&#39;tWon&#39;tWon&#39;t&quot;},{&quot;id&quot;:1269,&quot;artist_name&quot;:&quot;A&quot;,&quot;song_title&quot;:&quot;Cheeky Monkey&quot;,&quot;song_year&quot;:1997,&quot;song_lyrics&quot;:&quot;My name is JasonI&#39;ll rock yer face inCos I&#39;ve got relations in my bandWe like Van HalenAnd Iron MaidenI&#39;ll do the talkin&#39; understand? Cheeky MonkeyCheeky MonkeyYeah you know I&#39;m rightDo ya wanna fight?I&#39;ll stay up all nightJust forget the time Any time I want toAny place I need toI&#39;ll be thereYeah I&#39;ll be alright... So get out the kitchenCheck out my pigeonFed-Ex are massive on my wayJump on a rock busNo-one can stop usWe&#39;re going bonkers today Yeah Cheeky Monkey!Cheeky Monkey!Do you know I&#39;m right!Do ya wanna fight?I&#39;ll stay up all nightJust forget the timeAny time I want toAny place I need toI&#39;ll be thereYeah I&#39;ll be alright... We&#39;re Cheeky MonkeysWe&#39;re Cheeky MonkeysJust like the Bee GeesWe put the words down so they rhymeYeah we rock in the summer(Rock in the summer)And we sleep in the winter(Sleep in the winter)Then we park where we want to(Park where we want to) pay the fine Yeah Cheeky MonkeysCheeky MonkeysDo you know I&#39;m right!Do ya wanna fight?I&#39;ll stay up all nightJust forget the timeAny time I want toAny place I need toI&#39;ll be thereYeah I&#39;ll be alright... Cheeky MonkeysCheeky MonkeysCheeky MonkeysCheeky MonkeysCheeky...&quot;},{&quot;id&quot;:1270,&quot;artist_name&quot;:&quot;A&quot;,&quot;song_title&quot;:&quot;Sing-a-Long&quot;,&quot;song_year&quot;:1997,&quot;song_lyrics&quot;:&quot;Everybody in the building has to sing the songAll the boys and all the girlfriends sing the sing-a-long Think I&#39;m in trouble there&#39;s always a coupleAround me wherever I goThey&#39;re out there to bug meI don&#39;t think it&#39;s funnyEverybody&#39;s laughing at me yeah I wanna go out but there&#39;s no-one aboutAll my friends want a quiet one at homeThe same age as me andThey&#39;re husbands-to-be yeahEverybody in the building Everybody in the building has to sing the songAll the boys and all the girlfriends sing the sing-a-long I make a move here and I make a move thereI&#39;ve got millions of things on the goI write me the best linesThey&#39;re too corny sometimesEverybody&#39;s laughing at meEverybody in the building has to sing the songAll the boys and all the girlfriends sing the sing-a-long Everybody in the building has to sing the songAll the boys and all the girlfriends sing the sing-a-long I know when I find herThere&#39;s rings on her fingerI&#39;ve tried every trick in the bookI&#39;ve got some hard prideI&#39;ve got time on my sideEverybody&#39;s gone without me yeah Everybody in the building has to sing the songAll the boys and all the girlfriends sing the sing-a-long Everybody in the building has to sing the songAll the boys and all the girlfriends sing the sing-a-long&quot;},{&quot;id&quot;:1271,&quot;artist_name&quot;:&quot;A&quot;,&quot;song_title&quot;:&quot;Out of Tune&quot;,&quot;song_year&quot;:1997,&quot;song_lyrics&quot;:&quot;You&#39;re always fighting everyoneYou were wrong when you were youngYou love to think you&#39;re on the run oh!Had to laugh at all your jokesHad to tremble &#39;cos you smokedBet you&#39;d never ever get my fun yeahYou&#39;re the one to run from self they say (self they say)I remember you back in the day (in the day)Did my best to keep out of the wayKicked it up in school singing out of tuneWhile you&#39;re fighting everyoneI&#39;ve been hanging in the sunThere&#39;s a million things I&#39;ve done oh!You&#39;re the one who took the leadMe least likely to succeedDifferent now yeah you agreeAlright!You&#39;re the one to run from self they say (self they say)I remember you back in the day (in the day)Did my best to keep out of the wayKicked it up in school singing out of tuneThought you were the rule singing out of tuneEverybody keep out of his wayEverybody keep out of his wayEverybody keep out of his wayEverybody keep out of his wayOh! Singing out of tuneSinging out of tuneSinging out of tuneSinging out of tuneYou&#39;re the one to run from self they say (self they say)I remember you back in the day (in the day)Did my best to keep out of the wayKicked it up in school singing out of tuneEverybody knew singing out of tuneSinging out of tuneSinging out of tuneSinging out of tuneSinging out of tuneSinging out of tuneSinging out of tuneSinging out of tuneSinging out of tuneSinging out of tune (always fighting everyone)Singing out of tune (always fighting everyone)Singing out of tune (always fighting everyone)Singing out of tune (always fighting everyone)Singing out of tune (always fighting everyone)Singing out of tune (always fighting everyone)Singing out of tune (always fighting everyone)Singing out of tune (always fighting everyone)&quot;},{&quot;id&quot;:1272,&quot;artist_name&quot;:&quot;A&quot;,&quot;song_title&quot;:&quot;Fistral&quot;,&quot;song_year&quot;:1997,&quot;song_lyrics&quot;:&quot;I like the summer like you like your wifeLive in the master for the rest of my life Every year since I was youngAnd always here and always funDistant places stinging facesAll at once I understand it&#39;s the summer Over and over it&#39;s summer againFills up the sad hole in my head again Sit for hours just passing vows toLet their hair down to the soundDistant places stinging facesAll at once I understand it&#39;s the summer It&#39;s withered flowers and big huge skiesIt&#39;s high for hours and then it dies Ocean keeps me up all nightThe sunshine makes my hair turn whiteYou know I hate the winter timeAll because there&#39;s nothing quite like the summer It&#39;s withered showers and breeze off shoreIt&#39;s high for hours and back for moreIt&#39;s withered showers and big big skiesIt&#39;s high for hours and then it dies...&quot;},{&quot;id&quot;:1273,&quot;artist_name&quot;:&quot;A&quot;,&quot;song_title&quot;:&quot;House Under the Ground&quot;,&quot;song_year&quot;:1997,&quot;song_lyrics&quot;:&quot;I&#39;d have my house under the groundAll my friends would all come roundLaugh about the ones who got awayI wouldn&#39;t know the time of yearIt&#39;s easier to tan down here I find it funnyI laugh at peopleAnd I don&#39;t know whyI sometimes giggleIf there&#39;s an earthquakeWhen good people die I&#39;d have my house under the groundAll my friends would all come roundLaugh about the ones who got awayI wouldn&#39;t know the time of yearIt&#39;s easier to tan down here I&#39;ll meet the big manI&#39;ll do what I canI&#39;ll suffer for my sinsSpeak with a deep voiceListen to metalSo that the good guys never win I&#39;d have my house under the groundAll my friends would all come roundLaugh about the ones who got awayI wouldn&#39;t know the time of yearIt&#39;s easier to tan down here Yeah you should see the manThat you see on Christmas dayBy six o&#39;clock on the sixth of June it&#39;s OK... Gather round under the sunMake the things I&#39;ve doneMake them understand I&#39;d have my house under the groundAll my friends would all come roundLaugh about the ones who got awayI wouldn&#39;t know the time of yearIt&#39;s easier to tan down here House under the ground (x4) I&#39;d have my house under the groundAll my friends would all come roundLaugh about the ones who got awayI wouldn&#39;t know the time of yearIt&#39;s easier to tan down hereSorry for the things I said that day(Repeat to fade)&quot;},{&quot;id&quot;:1274,&quot;artist_name&quot;:&quot;A&quot;,&quot;song_title&quot;:&quot;Five in the Morning&quot;,&quot;song_year&quot;:1997,&quot;song_lyrics&quot;:&quot;Yeah yeah yeah I&#39;ve seen it allYeah yeah yeah yeah I&#39;ve heared it allJ.P wants to rockNot at five o&#39;clock he&#39;s notThere&#39;s a medal in the kitchenFor catching early wormsYeah yeah yeah you&#39;re gonna betYeah yeah you&#39;re gonna learn Don&#39;t bother waking me at five in the morning&#39;Cos I don&#39;t wanna knowDon&#39;t bother waking me at five in the morning&#39;Cos I don&#39;t wanna know Stevie knows that it ain&#39;t dead yeahFarmer uncle still in bedM.A.C was born to rockThere&#39;s not a moment that he&#39;s not&#39;A&#39; Communication illin&#39; in my sleepYeah yeah yeah yeah yeah yeah yeahI lost count of my sheep Don&#39;t bother waking me at five in the morning&#39;Cos I don&#39;t wanna knowDon&#39;t bother waking me at five in the morning&#39;Cos I don&#39;t wanna know Don&#39;t look back (x2) No-Never never looking backNever falling off the trackNever clocking late for work&#39;Cos rocking pays the bills so I don&#39;tNeed no occupationI don&#39;t need any sleepYeah yeah yeah I never need to set my &#39;Series 3&#39; Don&#39;t bother waking me at five in the morning&#39;Cos I don&#39;t wanna knowDon&#39;t bother waking me at five in the morning&#39;Cos I don&#39;t wanna know Don&#39;t bother waking me at five in the morning&#39;Cos I don&#39;t wanna knowDon&#39;t bother waking me at five in the morning&#39;Cos I don&#39;t wanna know Waaaagh!&quot;},{&quot;id&quot;:1275,&quot;artist_name&quot;:&quot;A&quot;,&quot;song_title&quot;:&quot;One Day&quot;,&quot;song_year&quot;:1999,&quot;song_lyrics&quot;:&quot;One day you&#39;ll be on your ownYou won&#39;t have a shout any moreOne day you&#39;ll be in the groundYou&#39;re over and out andYou&#39;ve missed the last tube homeOne day you&#39;ll be on your ownYou won&#39;t have a shout any moreOne day you&#39;ll be in the groundYou&#39;re over and out andYou&#39;ve missed the last tube homeWoke up this morning heard someone snoringKnobheads going on about modern life is boringBears have their own music no-one can prove itJust like I&#39;m a guy of guysYou think I&#39;m gonna move itOne day you&#39;ll be on your ownYou won&#39;t have a shout any moreOne day you&#39;ll be in the groundYou&#39;re over and out andYou&#39;ve missed the last tube homeSum up together nobody&#39;s the wiserIt&#39;s life in the sunshine that&#39;s what I would advise her?One day you&#39;ll be on your ownYou won&#39;t have a shout any moreOne day you&#39;ll be in the groundYou&#39;re over and out andYou&#39;ve missed the last tube homeOne day you&#39;ll be on your ownYou won&#39;t have a shout any moreOne day you&#39;ll be in the groundYou&#39;re over and out andYou&#39;ve missed the last tube homeWoooooo!Yeeeh-haaa!One day you&#39;ll be on your ownYou won&#39;t have a shout any moreOne day you&#39;ll be in the groundYou&#39;re over and out andYou&#39;ve missed the last tube home[Repeat x3]&quot;},{&quot;id&quot;:1276,&quot;artist_name&quot;:&quot;A Band of Orcs&quot;,&quot;song_title&quot;:&quot;Bring Out Your Dead&quot;,&quot;song_year&quot;:2007,&quot;song_lyrics&quot;:&quot;Tear out your brains Living fantasy Skulls on my wall Adorning the bedroom walls All of that hate inside A Weapon to deploy I hunt in the night In shadows I hide and wait All of my deepest fantasies in one night coming true Bring out your dead Bring them to me Rotting flesh of corpses Captured souls! Instinct to kill or be killed Fulfilling my selfish will Searching for a fix all night Addicted to the flesh I seek out the weak and outcast They drop to their knees and beg They pray for a painless death The one they&#39;ll never get To be cast away To the pits of hell Never to be found Destiny awaits Buried under ground Never to be found&quot;},{&quot;id&quot;:1277,&quot;artist_name&quot;:&quot;A Band of Orcs&quot;,&quot;song_title&quot;:&quot;Procreation (Of the Wicked)&quot;,&quot;song_year&quot;:2007,&quot;song_lyrics&quot;:&quot;You are blind; deny the sun and lightWhose are the objections; from where come the doubtsEvidence of infinityProcreation of the wickedTwist of the knownProcreation of the wickedSerenades of opposition; absurdity humans fate and hopeTrue reflections of community; procreation of the gods and lordsEvidence of infinityProcreation of the wickedTwist of the knownProcreation of the wickedCain and Abel\\&#39;s love and death; love and hate is what we areDagger and grail are; fallen of the altarEvidence of infinityProcreation of the wickedTwist of the knownProcreation of the wicked\&quot;Mysteries of perversity\&quot;\&quot;I\\&#39;ve killed this old man because he limpedI\\&#39;ve done it because he shouldn\\&#39;t have to do it\&quot;If god raised the abyss; you\\&#39;d procreate your ownAbolism of death is; abolism of lifeEvidence of infinityProcreation of the wickedTwist of the knownProcreation of the wicked&quot;},{&quot;id&quot;:1278,&quot;artist_name&quot;:&quot;A Band of Orcs&quot;,&quot;song_title&quot;:&quot;Into The Maelstrom&quot;,&quot;song_year&quot;:2007,&quot;song_lyrics&quot;:&quot;Children pick up your swords and fight Be not afraid A deadly calm preceds the storm Tear yourself from your mothers\\&#39; womb Innocent no more Into the lair of the wolves Where legends are carved in blood Into the maelstrom where killers are born Raised on the blood of our own By strength of arms and dint of steel And warriors\\&#39; hearts We\\&#39;ll feast on the blood of our foes And watch them burn Chanting Singinig Praising fallen heroes Shining gleaming keen-edged weapons chosen Killing Feasting human sacrifices Onward foward come now off to war Eminent the gathering hordes our numbers swell How many of them can we kill before darkness falls Black fethered circling carrion crows Bellow the challenge; beating the drums of war Into the lair of the wolves Where legends are carved in blood Into the maelstrom where killers are born Raised on the blood of our own \&quot;The foemen\\&#39;s army draws near Lash yourself to their swords The only thing to fear is fear\&quot; Chanting Singing keen-edged weapons chosen Killing Giving human sacrifices Onward foward come now off to war A rushing wave of flesh and steel will and might Crashes against the shield wall below Riding frenzied convulsions of rage Mangling flesh and breaking bones Into the lair of wolves Where legends are carved in blood Into the maelstrom where killers are born Raised on the blood of our own By strength of arms and dint of steel And warriors\\&#39; hearts We\\&#39;ll feast on the blood of our foes And watch them burn Burn Watch them burn Eminent to the gathering horde To carry out my vision Eminent to the gathering horde Until Domination Eminent to the gathering horde&quot;},{&quot;id&quot;:1279,&quot;artist_name&quot;:&quot;A Band of Orcs&quot;,&quot;song_title&quot;:&quot;Prepare for Domination&quot;,&quot;song_year&quot;:2012,&quot;song_lyrics&quot;:&quot;Gather the tribe sharpen your blade raise your fistGore-stained axe cry out for bloodSever the trees feed the flames smelt the oreForging weapons for brutal warWhipping the slaves flogging the gruntsGet them in line send them to dieNo use for prayer only for warYour life&#39;s a lieMarch through the waste burn through the fieldsBatter the walls giants shall fallBringers of pain merchants of deathBlood flows forGold take what I wantKill greed is our godSpite for all giants fallDie too late to kneelWhipping the slaves flogging the gruntsGet them in line send them to dieNo use for prayer only for warYour life&#39;s a lieMarch through the waste burn through the fieldsBatter the walls giants shall fallBringers of pain merchants of deathBlood changed for goldPaid for the killStorming the wallsConquer destroyThe kingdom shall fallNo one is sparedThe deal is offWe hate your kindStupid and blindDeath shall be your receiptWe repay cowards in kindWhipping floggingGet them in lineSend them to dieMarching killingNever ask why You&#39;re next to dieMarching floggingGet them in lineSend them to dieThe dying the screamingWith the blood spilled for goldGlory bel fill our soulsStorming the wallsKingdom shall fallStill the war machine rolls onAnd the wheel of pain keeps on turningStill the war machine rolls onAnd the wheel of pain keeps on turningStill the war machine rolls onAnd the wheel of pain keeps on turningStill the war machine rolls onAnd the wheel of pain just keeps turningDeath you can&#39;t deceiveDeath you can&#39;t deceiveDeath you can&#39;t deceiveDeath you can&#39;t deceiveDeath you can&#39;t deceiveDeath you can&#39;t deceiveDeath you can&#39;t deceiveDeath will your soul reapWhipping the slaves flogging the gruntsGet them in line send them to dieNo use for prayer only for warYour life&#39;s a lieMarch through the waste burn through the fieldsBatter the walls giants shall fallBringers of pain merchants of deathBlood flows forGold spoils of warKill and take moreWar harvest of bloodDomination has come&quot;},{&quot;id&quot;:1280,&quot;artist_name&quot;:&quot;A Band of Orcs&quot;,&quot;song_title&quot;:&quot;When the Hills Run Red&quot;,&quot;song_year&quot;:2012,&quot;song_lyrics&quot;:&quot;Savagery storms the hill tidal wave of hateBiting axe blooded steel thirstyLaid to wasteBy tusk and claw we will take the landIf you come across our pathWe&#39;ll kill you where you standVengeance is at handWhen the hills run redSiege upon the giants&#39; walls and bring forth the ramWe&#39;ve been sent for the kill by King&#39;s commandWith burning torch and by blade no one shall be sparedLoved one&#39;s head placed on pikes your entrails I shall wearThrash destroySet flame to the hallsStorm the gatesScream writhe in painYour mighty halls will burnWith sword and axe raised highThe earth your blood will stainOur onslaught you cannot be spurnYour death our battle cryYou know your life&#39;s undoneWe are born to kill kill kill killWe thrash we destroyWe set flame to the hallsKnow your lands will burnYour life is at an endAll you loved now lost (No it&#39;s gone)When the hills run&quot;},{&quot;id&quot;:1281,&quot;artist_name&quot;:&quot;A Blue Ocean Dream&quot;,&quot;song_title&quot;:&quot;Father To Son&quot;,&quot;song_year&quot;:2008,&quot;song_lyrics&quot;:&quot;We never really talkedLike father to sonWe never got it saidWhen turned you were goneAll thoughts in my headYou were not always thereWe never took the timeI didn&#39;t always careWhen I was a little kidYou took me places to seeWe never got to the endThe road is open for meWhen I visit your graveI remember your faceI see your clear eyesI feel your embraceWe never talkLike father to sonLike father to son&quot;},{&quot;id&quot;:1282,&quot;artist_name&quot;:&quot;A Blue Ocean Dream&quot;,&quot;song_title&quot;:&quot;Retroboy&quot;,&quot;song_year&quot;:2008,&quot;song_lyrics&quot;:&quot;I used to be so impressedBy the way you movedAnd the way you dressedSongs I used to adoreFrom R and FAnd M.L. GoreAnd in the dancehallElectro playsYou could seeHe&#39;s a retroboyHe knows his movesIn every wayYou could seeHe&#39;s a retroboyWhen he&#39;s dancingAll aloneYou could seeHe&#39;s a retroboyNo one thereNo one else aroundYou could seeHe&#39;s a retroboyI read a book about youIt took the edge of what I knewI think the spark is goneAlthough your light is shining onAnd in the dancehallElectro playsYou could seeHe&#39;s a retroboyHe knows his movesIn every wayYou could seeHe&#39;s a retroboyWhen he&#39;s dancingAll aloneYou could seeHe&#39;s a retroboyNo one thereNo one else aroundYou could seeHe&#39;s a retroboy&quot;},{&quot;id&quot;:1283,&quot;artist_name&quot;:&quot;A Blue Ocean Dream&quot;,&quot;song_title&quot;:&quot;State In My Mind&quot;,&quot;song_year&quot;:2008,&quot;song_lyrics&quot;:&quot;I&#39;ve changed my wayIt&#39;s a state in my mindI&#39;ve changed my nameI think we&#39;re two of a kindI&#39;m not asking for muchI&#39;m not too extremeJust your elegant touchI think you know what I meanIt&#39;s a state in my mindIt&#39;s a state in my mindThings I had to learnBridges I had to leavePoint of no returnBurning behind meSorry for the painMy demons caused youI hope our love sustainAnd we make it throughIt&#39;s a state in my mindIt&#39;s a state in my mind&quot;},{&quot;id&quot;:1284,&quot;artist_name&quot;:&quot;A Blue Ocean Dream&quot;,&quot;song_title&quot;:&quot;United States&quot;,&quot;song_year&quot;:2008,&quot;song_lyrics&quot;:&quot;You got to lookBeyond the starsSilicon chipsAnd life on MarsYou got to seeBetween the stripesOf diet sodasAnd Hollywood wivesIn the middle ofNowhereIn the middle ofThe United StatesIn the middleSomewhereYou can feel howThe earth rotatesYou got to wake upJust like meDon&#39;t you believeIn all you seeIn the middle ofNowhereIn the middle ofThe United StatesIn the middleSomewhereYou can feel howThe earth rotates&quot;},{&quot;id&quot;:1285,&quot;artist_name&quot;:&quot;A Blue Ocean Dream&quot;,&quot;song_title&quot;:&quot;In Your Garden&quot;,&quot;song_year&quot;:2008,&quot;song_lyrics&quot;:&quot;In your garden there are butterfliesIn your garden birds of paradiseIn your garden the roses never dieIn your garden a heavy secret liesIn your garden orchids and spiceIn your garden you&#39;re always in for surpriseIn your garden the truth ain&#39;t always niceIn your garden a tear fell from your eyes&quot;},{&quot;id&quot;:1286,&quot;artist_name&quot;:&quot;A Blue Ocean Dream&quot;,&quot;song_title&quot;:&quot;Romantic&quot;,&quot;song_year&quot;:2008,&quot;song_lyrics&quot;:&quot;I saw a painting by FriedrichThe white cliffs of R\\xfcgenIt really had the coloursIt really had the depthIt made me feel nostalgicIt made me feel romanticI always been romanticI always been romanticSo won&#39;t you light the candlesAnd won&#39;t bring me some whineI will hold you tightUntil the end of timeI will tell you storiesYou always longed to hearI will hold you tightAll through the nightI always been romanticI always been romantic&quot;},{&quot;id&quot;:1287,&quot;artist_name&quot;:&quot;A Blue Ocean Dream&quot;,&quot;song_title&quot;:&quot;Do You Remember?&quot;,&quot;song_year&quot;:2008,&quot;song_lyrics&quot;:&quot;Two-thousand drummersCouldn&#39;t beat the feelingOf your soft voiceIt gives me the real thingOceans and landscapesAll have its beautyBut it can never be comparedTo your souls purityDo you remember when we satIn your car you held my handAnd I remember all you saidAnd all the dreams that we plannedI got to narrow them downAll my mistakesI got to stay focusedDo what it takesDo you remember when we satIn your car you held my handAnd I remember all you saidAnd all the dreams that we plannedI got to narrow them downAll my mistakesI got to stay focusedDo what it takes&quot;},{&quot;id&quot;:1288,&quot;artist_name&quot;:&quot;A Blue Ocean Dream&quot;,&quot;song_title&quot;:&quot;The World Today&quot;,&quot;song_year&quot;:2008,&quot;song_lyrics&quot;:&quot;I can&#39;t believe the world todayWhen understanding is all goneWhen respect has lost its meaningAnd the ego is praised highI can&#39;t believe the world todayWhen all respect is goneWhen understanding has lost its meaningAnd the ego is praised highI can&#39;t believe the world todayWhen understanding is all goneWhen respect has lost its meaningAnd the ego is praised highI can&#39;t believe the things they sayWhen they turn their backs awayWar and terror risin&#39; upWhen they go in for the killI can&#39;t believe the things they sayWhen they turn their backs awayWar and terror risin&#39; upWhen they go in for the killI can&#39;t believe the world todayWhen understanding is all goneWhen respect has lost its meaningAnd the ego is praised high&quot;},{&quot;id&quot;:1289,&quot;artist_name&quot;:&quot;A Broken Silence&quot;,&quot;song_title&quot;:&quot;All For What&quot;,&quot;song_year&quot;:2009,&quot;song_lyrics&quot;:&quot;He wasn&#39;t born to privilege but he was born to scrimmage  realised to this world  there was more than image knew to succeed  you must ignore your critics  loved his music  but deplored the business now you can sell your soul and get scores of riches  but in the end result  you&#39;ll be torn and twisted lived to the fullest thought he saw his limits  stayed on his principles  was to hardcore to pivot living to rhyme  but later driven to crime so cool most would of thought he aint sinned in his life things changed  at the blink of an eye  when he mentioned &#39;I just got to do a thing for this guy&#39; said &#39;I&#39;m choked&#39; looking at his kid flat broke five years down the track  wish he hid  that dope  his pops  always spoke about not mixing with bad folk  now they pulled him from a river  just to give him a tagged toe.Rob for the money steal for the money man I got to get them dollar bills for my honey should I rob for the money  steal for the money  do deals for the money  look  chill for me honey  should I rob for the money  steal for the money  got to get them dollar bills  for my honey   should I rob for the money  steal for the money  do deals for the money  look  chill for me honey. Life can be funny ( it aint funny) bro that boy got killed killed for the  .........A once disciplined kid  became inflicted within  stricken with  the sickness  of living for friends  bad habits of drinking didn&#39;t pay dividends wife gave him the ultimatum  leave or make ends  meet so for a while he lived in deceit started making that money pile without bringing receipts Mrs is all smiles thinking its sweet while his palms are sweaty heart skipping a beat till a night he got drunk and started wetting his beak dipped up in his mix he aint slept in a week a once strong figure got swept off his feet  said &#39;I&#39;m in hot water&#39; and I guess it was deep said now &#39;I&#39;m probably safer in a cell than the street a week later he knew how well he&#39;d foreseen selling to some D&#39;s  then he gave up his team his crew found him took his life just to pay for his deeds.Rob for the money steal for the money man I got to get them dollar bills for my honey should I rob for the money  steal for the money  do deals for the money  look  chill for me honey  should I rob for the money  steal for the money  got to get them dollar bills  for my honey   should I rob for the money  steal for the money  do deals for the money  look  chill for me honey. Life can be funny ( it aint funny) bro that boy got killed killed for the  .........Everyday&#39;s a trial we facing pictures in my mind retracing. X4Rob for the money steal for the money man I got to get them dollar bills for my honey should I rob for the money  steal for the money  do deals for the money  look  chill for me honey  should I rob for the money  steal for the money  got to get them dollar bills  for my honey   should I rob for the money  steal for the money  do deals for the money  look  chill for me honey. Life can be funny ( it aint funny) bro that boy got killed killed for the  .........&quot;},{&quot;id&quot;:1290,&quot;artist_name&quot;:&quot;A Broken Silence&quot;,&quot;song_title&quot;:&quot;The Pinnacle&quot;,&quot;song_year&quot;:2009,&quot;song_lyrics&quot;:&quot;You know what Some didn&#39;t speakThought they be shut downAnd be up in class that clownKnowledge we do seekBut got a need throw that muscle roundStand up or tumble now got drama in abundance nowWhen thrown in deep some will swim and sureSome will drownSome will be sheep and thats sweetIf you got good friendsWe not all born to lead so our feet just follow footprintsPushed in a world where to conform is the normHow quick your dreams can be tornJust getting cought in that stormBut when warned we ain&#39;t listeningThem laws we be dissin themOn a course we&#39;re going to court is like a christeningNot sure where your mission wentBefore it was differentDistorted cause you thought you ought to live for your list of friendsThats the real in youKnow thats the real in youBreak shackles of the ones that hold back and limit youThats what&#39;s criticalKnow thats whats criticalEmpowered to make moves on your ownThats the pinnacleYou know whatTime fly&#39;s like a bird doesFrom shining up in first classTo finding a first love who lined up and burnt budsFrom Riding church busses to a runaway trainNot coping when your folks splitOut unloading that blameAnd thats the dumbest of gamesBut how&#39;d you know any betterGot no focus on clever that only motives vendettaAnd all that self medicating on them potions an errorControls been taken the rains comingHold that umbrellaBut when warned we ain&#39;t listeningThem laws we be dissin themOn a course we&#39;re going to court is like a christeningNot sure where your mission wentBefore it was differentDistorted cause you thought you ought to live for your list of friendsThats the real in youKnow thats the real in youBreak shackles of the ones that hold back and limit youThats what&#39;s criticalKnow thats whats criticalEmpowered to make moves on your ownThats the pinnacle&quot;},{&quot;id&quot;:1291,&quot;artist_name&quot;:&quot;A Broken Silence&quot;,&quot;song_title&quot;:&quot;Rat Race&quot;,&quot;song_year&quot;:2009,&quot;song_lyrics&quot;:&quot;Stress running through your brain and your running for the train hands fumbling for change just another on the chase.  Dinner on your plate but rent is coming late see your Mrs at the gate  Its written on her face. Giving up your wage and drinking with your mates on a mission so your feet aint hitting on no brakes. Some do it out of love  some do it out of hate  some do it for themselves some do it to create.  And shape the world with the path you lead I see a star as an image that is far from me and every obstacle their benefits are hard to see  but later find they&#39;re the parts you need.Try to stand but stay braced for the fall in that Rat Race where the pace never stalls sacrifice  patience face to the wall on that paper chase that relates us all. Just trying to stand but stay braced for the fall  in that Rat Race where the pace never stalls sacrifice  patience face to the wall on that paper chase that shapes us all.Car tank is on E(empty) you put your baby off to sleep who&#39;ll pay electricity maybe next week trying to get up on your feet  not hearing about defeat  just trying to earn your keep without burning your beliefs they making in the street  its hard to turn the other cheek  but is serving your dreams  worth a furnace that deep hurting with fatigue  coercing you to flee  but every adversity makes that person you be.  .  You shape the world with the path you lead I see a star as an image that is far from me and every obstacle their benefits are hard to see  but later find they&#39;re the parts you need.Try to stand but stay braced for the fall in that Rat Race where the pace never stalls sacrifice  patience face to the wall on that paper chase that relates us all. Just trying to stand but stay braced for the fall  in that Rat Race where the pace never stalls sacrifice  patience face to the wall on that paper chase that shapes us all. X2Trying to stand (stand)  brace (brace )  fall  that Rat Race (race)   pace don&#39;t stall do what it takes break through walls that paper chase  shapes us all (yeah) x2Try to stand but stay braced for the fall in that Rat Race where the pace never stalls sacrifice  patience face to the wall on that paper chase that relates us all. Just trying to stand but stay braced for the fall  in that Rat Race where the pace never stalls sacrifice  patience face to the wall on that paper chase that shapes us all.&quot;},{&quot;id&quot;:1292,&quot;artist_name&quot;:&quot;A Broken Silence&quot;,&quot;song_title&quot;:&quot;Everyday&quot;,&quot;song_year&quot;:2009,&quot;song_lyrics&quot;:&quot;VERSE 1I only listened to one voice defined as recklessTill i heard another utter your time is preciousNever was concerned with them worldly pleasuresBut when im buried my words will be unearthed as treasuresIn drastic times I&#39;d revert to those measuresOf Putting hands in the dirt to search for what&#39;s betterThirsting for cheddar like a rat in a dumpsterAnd that gave me the hunger to rap with such thunderWas going under for a second felt like a convicted manAnd struggle was my sentence but now . bamIm doubling my efforts regardless of whateverStumbles in my presenceMade my entranceA cunning young apprentice and stillAint speak a speck about a gun or bout a necklaceMy method is run until your breathlessThere&#39;s nothing gained from something that&#39;s stress lessCHORUSOn every day we strained for this (We strained)And got to say there&#39;s been pain for this (Been pain)The life of them entertainers is (What)Aint the bliss that they claim it is (It is not)On every day we strain for thisAnd got to say there&#39;s been pain for thisExperience we gained from thisWe so thankful... we never came up quickVERSE 2The race non-stop the pace constantWake everyday and got to face some nonsenseFace the monsters  snakes to mobsters ...out thereTrying to take your conscienceMany working like slaves its bonkersAnd use potions to sedate cause they somberI was taught to never trade the honour that&#39;s laid upon yaGot to train be strongerYour brain can wonderGet side tracked many types you gotta drive backSly rats and the type that like to wise crackHigh cats smoking ice until their eyes blackGot you unable to write unless your pipes packedCame the hard way tried to fight factsAnd started shedding some light upon the right mapsMost my youthful life I was quite crackedTill I 360ed dynamited at the mind trapsOh yes...CHORUSOn every day we strained for this (We strained)And got to say there&#39;s been pain for this (Been pain)The life of them entertainers is (What)Aint the bliss that they claim it is (It is not)On every day we strain for thisAnd got to say there&#39;s been pain for thisExperience we gained from thisWe so thankful... we never came up quickVERSE 3Might have thought I liked the stress the fight the testA broken silence no overnight successPay the toll gate mate you&#39;ve arrived in the westWhere affluence meets with survival at bestGuess who&#39;s live upon the setAll eyes upon us man we rising them betsRaising the stakes  why they patiently waitThis the hour now they faze in the greatsWas sidetracked when I came in the placeSo I had to pay for my major mistakesChanged my traits realised what it takesCan&#39;t be no passenger man I&#39;m a pilot them planesLived wild but now they got files on my nameEven ma knows now her child&#39;s come of ageSo from the sunshine to the darkest of daysWent from basket case to master of a trade.CHORUSOn every day we strained for this (We strained)And got to say there&#39;s been pain for this (Been pain)The life of them entertainers is (What)Aint the bliss that they claim it is (It is not)On every day we strain for thisAnd got to say there&#39;s been pain for thisExperience we gained from thisWe so thankful... we never came up quick&quot;},{&quot;id&quot;:1293,&quot;artist_name&quot;:&quot;A Broken Silence&quot;,&quot;song_title&quot;:&quot;The Road Is Lost&quot;,&quot;song_year&quot;:2009,&quot;song_lyrics&quot;:&quot;Can you picture a little boy dragging wood down the lane?Grandma waiting for him brother playing outside in the rainEach day we hear the score before not after shots of warAnd the road to him is love but the love is never moreWishing it all to endEnraged by the slaughteringThoughts explode like my heads a grenade and I drawed the pinTalking to men with one choice to run off or defendMust punish to win gotta let that gun off for ya kinThe only laws is &#39;no laws at all&#39; once it beginsFrom the smell of blood violence is absorbed into the skinAnd the thoughts of kids caught up should torture people to deathNow freedoms with them see if they morph and see any senseCan you picture a little boy dragging wood down the lane?Grandma waiting for him brother playing outside in the rainEach day we hear the score before not after shots of warAnd the road to him is love but the love is never moreNot all true pictures of war are drawn in the newsSo we painted a little more like George Gittoes doJaded because we didn&#39;t hear them calls coming throughHow we&#39;d savor our days if we had to walk in them shoesCountries can&#39;t build without support for the youthThey lost when their most important resources abusedForming our views and not picking up on the cuesInner-city blues stop many from listening to the cluesVoices on mute so we whisper this to youNo time for school many children be enlisted to be troopsAnd we walk  thinking that the system got us screwedLike we taught just to keep a short distance from the truthWhen scores\\u2026are born only to be drifting to a nooseWhen they gone well be saying  lord forgive we never knewGotta question why many got there scriptures misconstruedAnd why spending on weapons and not assistance is the ruleCan you picture a little boy dragging wood down the lane?Grandma waiting for him brother playing outside in the rainEach day we hear the score before not after shots of warAnd the road to him is love but the love is never moreWe&#39;re caught up in the pictures that they have shown usAnd not the millions of innocents that been blown upCold hearts disconnecting us from our own bloodFor their objectives its best that they blindfold usCan you picture a little boy dragging wood down the lane?Grandma waiting for him brother playing outside in the rainWe&#39;re caught up in the pictures that they have shown usAnd not the millions of innocents that been blown upCold hearts disconnecting us from our own bloodFor their objectives its best that they blindfold usCan you picture a little boy dragging wood down the lane?Grandma waiting for him brother playing outside in the rain.&quot;},{&quot;id&quot;:1294,&quot;artist_name&quot;:&quot;A Broken Silence&quot;,&quot;song_title&quot;:&quot;There They Go&quot;,&quot;song_year&quot;:2009,&quot;song_lyrics&quot;:&quot;Flicking through photos as our childhood starts to fade awayAs we&#39;ve grown seen some of the wildestMany of our greatest daysSome succeeded stagnated didn&#39;t make the gradeSome of us lost hope and put our faith up in the latest crazeWith something so potent they lost focusCouldn&#39;t stay sainMany dreams they went up in smokeFrom the day they became a slaveWere they lost souls looking for ways to entertain their brain?Couldn&#39;t strain friendships and made it hardTo go against the grainOn a lonely road where no one is on a quest for changeTo get control then at best you must confess todayBarely a cent after rent in a mess you staySavings are spent invested in the stress and decayDo we rest the blame on the shoulders of society?Who let it creep through although they know its notoriety?If I could take your past and hold it where your eyes can seeTo show you&#39;ve joined a long lineThat be folding up them brightest dreamsSometimes the city can suck you in to its habitsWhere it&#39;s easier to sink than to manageLet it goSometimes even the loudest people in a crowded placeFeel drowned out and start to think they&#39;re aloneAnother day another broken dreamWe try to bring em out the dark again but there they goDon&#39;t know where to goDon&#39;t know where to goMy city try to throw em off they don&#39;t know where to goSometimes the city can suck you in to its habitsWhere it&#39;s easier to sink than to manageLet it goAnother day another broken dreamWe try to bring them out the dark again butThere they goOften I&#39;m pacing thought&#39;s be racingAsking questions why the privileged wasteAnd those in despair make the best of life?What separates those with lesser drive from the rest that shine?Why do some rise up in testing times? Some are less inclinedMorals clouded soaked up in these pesticidesCouples giving birth so the baby bonus cheque arrivesWe twisted too slow to even get their vibeWent from A to B so quick couldn&#39;t connect the linesSince it got a grip on these streets and started clenching tightTensions increase and so has tendencies to crimeBodies waste awayOn those who were once the energetic typeNo class or race divides this epidemic strikeIt&#39;s not a new find fragility of the human mindBut to reality many have shut the doorDrew the blinds isolatedIn this modern worlds new designWhere no one&#39;s got the time to try and stop emFrom the noose they&#39;re tying&quot;},{&quot;id&quot;:1295,&quot;artist_name&quot;:&quot;A Broken Silence&quot;,&quot;song_title&quot;:&quot;Hope&quot;,&quot;song_year&quot;:2011,&quot;song_lyrics&quot;:&quot;Many are stained with souls corruptHope they locate change when old enoughA message that I got when growing upIs drink and smoke pot until ya throwing upSo is the world getting colder?Nah then I look where them soldiers areWonder why I just wrote that barWhere we living is poles apartWith open hearts I see people buildingA bridge to the world to feed some childrenA new light to lead some millionsFight evil be resilientRole models saying \&quot;Grip that gun\&quot;We marching to a different drumDrugs will bring you a fist of fundsBut make your journey a twisted oneJust begun to see duty\\&#39;s changeSeek truth not pursuit of fameSome choosing to fuel them flamesBut they looking like fools todayIf the youth decay focus diesTime to retrain mobilizeThem old ways have been pulverizedWe got a new table to roll that diceInner demons like a poltergeistHad us living so cold as iceBut now kids got global eyesHopes aliveConquer fear new ideas see these kidsPioneers for future years visions clearWhat this is this is hope this is hopeNew ideas see these kidsPioneers for future years visions clearWhat this is? This is hopeConquer fear new ideas see these kidsPioneers for future years visions clearWhat this is this is hope this is hopeNew ideas see these kidsPioneers for future years visions clearWhat this is this is hopeLike they sing in Liverpool you\\&#39;ll never walk aloneAny girl any fella from a broken homeAnyone neglected in a warring zoneLost their abode and was forced to roamStill they spoke in the warmest tonesKept hope as a cornerstoneFrom these gifts we ought to growI quit spitting them morbid poemsLike cortisones to stop the hate swellingStill see pain in locked away felonsStill need change and lots of rebellingUse brainsWe got to be heading in the right directionright progression Minds can be quite perplexingmy confession Life is testingand positive thought fights depressionLike songs of Michael read the Bible read KoranHeed disciples love is vital in the eyes of BuddhaAnd even scribes from the tribes of JudahOne word to describe the future hopeConquer fear new ideas see these kidsPioneers for future years visions clearWhat this is this is hope this is hopeNew ideas see these kidsPioneers for future years visions clearWhat this is this is hopeConquer fear new ideas see these kidsPioneers for future years visions clearWhat this is this is hope this is hopeNew ideas see these kidsPioneers for future years visions clearWhat this is this is hopeWhat this is what this isWhat this is this is hopeSee these kids this is hopeFutures here this is hope this is hopeConquer fear new ideas see these kidsPioneers for future years visions clearWhat this is this is hope this is hopeNew ideas see these kidsPioneers for future years visions clearWhat this is this is hopeConquer fear new ideas see these kidsPioneers for future years visions clearWhat this is this is hope this is hopeNew ideas see these kidsPioneers for future years visions clearWhat this is this is hope&quot;},{&quot;id&quot;:1296,&quot;artist_name&quot;:&quot;A Broken Silence&quot;,&quot;song_title&quot;:&quot;Caught Up in Fiction&quot;,&quot;song_year&quot;:2011,&quot;song_lyrics&quot;:&quot;I was caught up in fiction I lied to the worldTold her a change won&#39;t followI told her don&#39;t waste your time anymoreA renegade gotta face a changeStay away from them wasted days now breakMan this the life of the cool folksAnd them clich\\xe9 muso&#39;s reach for that ouzoKeep drinking till that booze goesTraveled more then a few roadsWorn are my shoe soles some rapping for that kuloI stayed glad with the kudosGrabbing at fools gold from that spot I couldn&#39;t moveNo pinned back like judo trapped Robinson CrusoeWe always blazed on the weekdaysAnd we normally sleep late pause then we replaySort of thought there&#39;d never be changeBut now I like my b&#39; day for Torcha it&#39;s D-dayWe always blazed on the weekdaysAnd we normally sleep latePause then we replay. Sorta thought there&#39;d never be changeBut now I like my b&#39;day for Torcha it&#39;s D-dayI was caught up in fiction I lied to the worldTold her a change won&#39;t followI told her don&#39;t waste your time anymoreA renegade gotta face a changeStay away from them wasted days now breakWe got props for them hot barsBeen on dust like rock stars cuffed up in cop carsScreaming out they should stop warBut every spot that we pub crawl none stop got brawlsMany chasing that feeling and by age twenty-eightProbably wasted a millionFrom this day dig my heals in I&#39;ll never be Bill GatesBut I&#39;m gonna build for my childrenSo what it took to be a man now is put some plans downNever look for them hand outsNow torch in the cockpit what&#39;s more it&#39;s a rocketWe off watch thisMany thinking you&#39;re at loss kidPiss poor were them options naught in my pocketsMany thinking your at loss kidPiss poor were them options naught in my pocketsMany thinking you&#39;re at loss kidPiss poor were them options naught in my pocketsSince the call from the doctorsI had my bad thoughts packed all into boxesI was caught up in fiction I lied to the worldTold her a change won&#39;t followI told her don&#39;t waste your time anymoreA renegade gotta face a changeStay away from them wasted days now breakSo I told her I&#39;m switching upTo live it up with a different buzz now that wisdom&#39;s comeSo I told her I&#39;m switching upTo live it up with a different buzz now that wisdom&#39;s comeSo I told her I&#39;m switching up so I told herI told her a change won&#39;t followA renegade gotta face the changeStay away from the wasted days now breakI told her a change won&#39;t followA renegade gotta face the changeStay away from the wasted days now breakI told her a change won&#39;t followA renegade gotta face the changeStay away from the wasted days now breakI told her a change won&#39;t followA renegade gotta face the changeStay away from the wasted days now breakI told her a change won&#39;t I needed a change thoughI told her don&#39;t waste your time anymore&quot;},{&quot;id&quot;:1297,&quot;artist_name&quot;:&quot;A Broken Silence&quot;,&quot;song_title&quot;:&quot;Genesis Of Control&quot;,&quot;song_year&quot;:2011,&quot;song_lyrics&quot;:&quot;We live in this this ain&#39;t the joke of a conspiracist just genesis of a control that could be limitless &#39;so people come get your benefits cameras on all perimeters bordering on ridiculous &#39;and we the ones they do business with&#39; many predicted this warning to all citizens &#39; cause we see none of these images&#39; true journalists become dissidents.Give us a way out don&#39;t make us bring you downYou&#39;ll never silence the voices silence this voiceGive us a way out\\u2026 way out...Stay diligent as we unfold who the villains is cause innocents still being revoked of their privileges &#39;so people come get ya benefits&#39; administers of militance living terror for villages &#39;and we the ones they do business with&#39; imagine they inflict on us similar type predicaments &#39;cause we see none of these image&#39; assisting their systems deliverance.Give us a way out don&#39;t make us bring you downYou&#39;ll never silence the voices silence this voiceGive us a way out don&#39;t make us bring you downYou&#39;ll never silence the voices silence this voiceGive us a way out\\u2026(genesis of a control that could be limitless genesis of a control that could be limitless)Silence the voices!Give us a way out...(genesis of a control that could be limitless genesis of a control that could be limitless)Give us a way out...(the genesis of a control that could be limitless)Way out...(genesis of a control that could be limitless genesis of a control that could be limitless)Give us a way out...(genesis of a control that could be limitless genesis of a control that could be limitless)Give us a way out don&#39;t make us bring you downYou&#39;ll never silence the voices silence this voiceGive us a way out\\u2026 way out...Don&#39;t make us bring you down give us a way outWay out...&quot;},{&quot;id&quot;:1298,&quot;artist_name&quot;:&quot;A Broken Silence&quot;,&quot;song_title&quot;:&quot;Walls Collide&quot;,&quot;song_year&quot;:2011,&quot;song_lyrics&quot;:&quot;Some it&#39;s how they brought upSome they got caught upSome they been torturedTheir thoughts stayed dormantThen they started morphingGot hardly any cautionSeemed nutty talkingWas buddy&#39;s now we awkwardTouched to many coffins seen too many lost onesMany like porcelain cracked in an instantPoor to rich kids the off balance to the giftedMental states don&#39;t discriminateWhen they penetrate like a renegadeThat saw the fate of my many matesOn a steady chase inclined to celebrate on any dayElevate getting high I couldn&#39;t levitateTo see the state of their minds and had to get awayNo one demonstrates what to do in situationsIn these cases when they talking too outrageous(Damn)So we soon became strangersNo one educates we knew none of the dangers(Cactus)She never lets him see inside(Torcha)And he don&#39;t ever see the pain that&#39;s caught inside(Cactus)If she could see the world through his eyes(Torcha)And she don&#39;t ever see the pain that&#39;s caught inside(Cactus)We were so blind(Torchs)We don&#39;t ever see the pain that&#39;s caught inside(Cactus)They tried we tried(Torcha)We don&#39;t ever see the painSpent days trying to control that thought train&#39;Cause to get to that happiness state we all aimTrying to find Nirvana some end like CobainSome go bananas can&#39;t vent so pour blameOn your self &#39;cause of wealth &#39;cause of life&#39;Cause you saw your relationship melt with your wife&#39;Cause ya parents hit you with a belt in the eye&#39;Cause ya doctor couldn&#39;t find the right pills to prescribeMan this is life this is everyday more of usRich or poor internal war be borderlessScientists been trying to get the core of thisUnlocked doors but be stuck in the corridorsHorrors of dealing with the unknownThink your alone but don&#39;t know who followed you homeWe silent though about these issued as a wholeSo now we missing those that slipped in to there hold &#39;cause(Cactus)She never lets him see inside(Torcha)And he don&#39;t ever see the pain that&#39;s caught inside(Cactus)If she could see the world through his eyes(Torcha)And she don&#39;t ever see the pain that&#39;s caught inside(Cactus)We were so blindBefore some ever get to live walls collideAnd we don&#39;t ever see the gameThat&#39;s fought insideBefore some ever get to live walls collideAnd we don&#39;t ever see the games that&#39;s fought inside&quot;},{&quot;id&quot;:1299,&quot;artist_name&quot;:&quot;A Broken Silence&quot;,&quot;song_title&quot;:&quot;The Right Price&quot;,&quot;song_year&quot;:2011,&quot;song_lyrics&quot;:&quot;Step on anyone on your mission to rise upHuman brethren have been listening to liarsKilling for wealth or religion is a virusRebelling from wisdom that guides usBombs loaded caught in the momentNo thought just war with opponentsPay that mortgage with my bonusNo thought of where your home isGotta get my kids tuitionHope the missile hits with precisionTo stop a terrorist ambitionThem or us quick decisionHurry up pick your missionWe fall for anything everything has a right priceFor better results you need to evolve to move meDestroy enemies bury them till my minds rightIt&#39;s taken it&#39;s toll your way to involvedTo see that you fall too easyWe fall for anything everything has the right priceYeah you fall so easyStep on anyone on your mission to rise upHuman brethren have been listening to liarsKilling for wealth or religion is a virusRebelling from wisdom that guides usBombs loaded strapped to my vest nowSo hopeless mad at the west nowBeen told a bomb is my best routeExplode and God he will bless thouMy lands under occupationAnd we&#39;re branded abominationsCircled by a domination god damn I&#39;ve lost my patienceI&#39;m blowing up a station paradise my consolationWe fall for anything everything has a right priceFor better results you need to evolve to move meDestroy enemies bury them till my minds rightIt&#39;s taken it&#39;s toll your way to involvedTo see that you fall too easyWe fall for anything everything has the right priceYeah you fall so easySee the likes of us we fight don&#39;t runSee the likes of us we fight don&#39;t runSee the likes of us we fight don&#39;t runFor the plied of the righteous onesSee the likes of us we fight don&#39;t runFor the plied of the righteous onesSee the likes of us we fight don&#39;t runFor the plied of the righteous onesSee the likes of us we fight don&#39;t runFor the plied of the righteous onesSee the likes of us we fight don&#39;t runSee the likes of us we fight don&#39;t runSee the likes of us we fight don&#39;t runSee the likes of us we fight don&#39;t run&quot;},{&quot;id&quot;:1300,&quot;artist_name&quot;:&quot;A Broken Silence&quot;,&quot;song_title&quot;:&quot;Fearless&quot;,&quot;song_year&quot;:2011,&quot;song_lyrics&quot;:&quot;G&#39;day world how ya doing?You in a palace or house in ruinWe all struggle no doubt we humanBut we grinding out solutionsInner peace can be illusiveWhen following dreams so ruthlessBut family be crucialCan see that I&#39;ve been cluelessTo the truest of epiphaniesThat switching you to my centerpieceWould come renew that energyBe mutual dependencyStill love my boozed up memoriesOf cigar fumes and HennesseyI drafted new itineraryA blueprint for future legacySo hold on I&#39;m steeringStrength has come I&#39;m leadingA soldier fearlessWhy scream no one can hear usSo hold on I&#39;m steeringStrength has come I&#39;m leadingA soldier fearlessWhy scream no one can hear usSo fearless so fearlessSo fearless and all the fear is goneSo fearless so fearlessSo fearless and all the fear is goneOnce based my days on chasing fameAnd chasing dames to make a nameMy soul became a vacant placeThen over came a saving graceAfter all the labor pain a heartCould never stay the sameMy path it did fade awayA starring role nature playedGrasping on a razor blade to checkThat this is logicalPacing in that hospitalWaiting on a doctors movesI can take a knock or twoBut to hold a tears impossibleDone with fear cut that looseIt&#39;s time to be a rock for youSo hold on I&#39;m steeringStrength has come and I&#39;m leadingA soldier fearlessWhy scream no one can hear usSo hold on I&#39;m steeringStrength has come and I&#39;m leadingA soldier fearlessWhy scream no one can hear usSo fearless so fearlessSo fearless and now the fear is goneSo fearless so fearlessSo fearless and now the fear is goneSo hold on I&#39;m steeringStrength has come and I&#39;m leadingA soldier fearlessWhy scream no one can hear usSo hold on I&#39;m steeringStrength has come and I&#39;m leadingA soldier fearless fearless&quot;},{&quot;id&quot;:1301,&quot;artist_name&quot;:&quot;A Broken Silence&quot;,&quot;song_title&quot;:&quot;Real Heroes&quot;,&quot;song_year&quot;:2011,&quot;song_lyrics&quot;:&quot;Born in Bondi with a keen eye for politicsMany got degrees but don\\&#39;t know what knowledge isAcknowledge his dedication to the truthAnd he never changed name just for chasing luteSo today he remains of the fewAin\\&#39;t here for fame dedication to that news butNot the news that your seeing on foxEcause they label his views as treasonous plotsBelieve it or not he\\&#39;s a prize winning professorBeen a front line eye witness to terrorBeen threatened to leave countriesAnd had death threatsMade me believe how we deceived by you west pressAnd now I know why these secrets are best keptRight after his readings I be needing a stress testA best bet for those not familiarCheck the intellect of Mr. John PilgerReal heroes are hard to come byLived in darkness but strived for sunshineThe human race would rise as one kindIf these lies hypnotized our young mindsSunshineBorn to a tribe in a south Africa villageIn a country wealth but without any privilegeHis land pillaged by settlers with greed on their mindThey showed no respect so no peace he could findHe would read all the time be speaking his mindBe a lead to the blind so his people would climbFree speech was a crime in the time that he livedApartheid had people divided by skinAnd not a guy to give in on a quest to be freeTwenty seven years of life in a penitentiaryFinished off degrees in Bothe law and artsSo smart leaving court rooms torn apartShowed heart like Phar Lap on release from jailSaid \&quot;We are all one people let peace prevail\&quot;Without fail we raise a glass in health to this fellaThe selfless path of Mr. Nelson MandelaReal heroes are hard to come byLived in darkness but strived for sunshineThe human race would rise as one kindIf these lies hypnotized our young mindsSunshineReal heroes are hard to findWith super powers that really existThat influence the hearts of menWho could you turn toIf we did not have direction and inspirationFrom men like this from men like thisReal heroes are hard to come byLived in darkness but strived for sunshineThe human race would rise as one kindIf these lies hypnotized our young mindsSunshine&quot;},{&quot;id&quot;:1302,&quot;artist_name&quot;:&quot;A Burning Water&quot;,&quot;song_title&quot;:&quot;Out In The Dark&quot;,&quot;song_year&quot;:2005,&quot;song_lyrics&quot;:&quot;Lets fight the nowLight that fire and burn it downBring it down bring it downWe make our fate the time is nowAll together all the sameIts not over its not overWe&#39;re not the same off the shelfIts not over its not overWe&#39;re not the same..HEY its not over nowWe fight with all we haveOur fates not up to youIts not over nowWe&#39;re taking overSay it time and time againWe&#39;ll bring it down without the lightWe&#39;ll play out in the darkLets fight the nowLight that fire and burn it downBring it down bring it downWe make our fate the time is nowAll together all the sameIts not over its not overWe&#39;re not the same off the shelfIts not over its not overWe&#39;re not the same..HEY its not over nowWe fight with all we haveOur fates not up to youIts not over nowWe&#39;re taking overSay it time and time againWe&#39;ll bring it down without the lightWe&#39;ll play out in the darkIn the dark say nowIn the darkThe time in nowWe won&#39;t back downWe hold these cardsWe&#39;ll burn it downHEY its not over nowWe fight with all we haveOur fates not up to youIts not over nowWe&#39;re taking overSay it time and time againWe&#39;ll bring it down without the lightWe&#39;ll play out in the darkIn the dark say nowIn the darkWhat&#39;s left for them now?&quot;},{&quot;id&quot;:1303,&quot;artist_name&quot;:&quot;A Burning Water&quot;,&quot;song_title&quot;:&quot;Missles And Markers&quot;,&quot;song_year&quot;:2005,&quot;song_lyrics&quot;:&quot;Created picture plains with the sky permission to land or we&#39;ll dissolve into air with a heavy heart we&#39;ll mark the fiction here it&#39;s over nowWe captured time and spaceWe made it relativeTo the ocean view of you recallSubside single waves burn the memories inside they scream out give it one more shot exploding fragments of the makeup say we&#39;re right again We captured time and spaceWe made it relativeTo the ocean view of you this isThe place where we have comethis the time when we come clean and i&#39;ll says there&#39;s always more to know why can&#39;t we save our times hereWe captured time and spaceWe made it relativeTo the ocean view of you we callIt quits tonight&quot;},{&quot;id&quot;:1304,&quot;artist_name&quot;:&quot;A Burning Water&quot;,&quot;song_title&quot;:&quot;So Much You Hide&quot;,&quot;song_year&quot;:2005,&quot;song_lyrics&quot;:&quot;Fire burns me brighter than ever beforeWater runs through theseOpen door wanting to remain lock foreverI forgive words that you sayYour lies are wearing thinI forgive words that you sayLets move on and leave them hereLight consumes me more than you&#39;ll ever knowDont speak so softUnderstand the beaten path you walk has over grownI forgive words that you sayYour lies are wearing thinI forgive words that you sayLets move on and leave them hereSo say it once to my eyesSay that you&#39;re always always awayThere&#39;s so much you hideYour eyes tell me soGo back on your word and hideSo we can move on.&quot;},{&quot;id&quot;:1305,&quot;artist_name&quot;:&quot;A Burning Water&quot;,&quot;song_title&quot;:&quot;In Failed Attempts&quot;,&quot;song_year&quot;:2005,&quot;song_lyrics&quot;:&quot;Failed attempts in understandingOnly brought me hereConsequently i just wanted you todayClearly it was the apprehension that stained the ceilingDraw back the curtains so I can seeClinching fists and crystal dreams they fall hereSee through eyes just to wonder whyI just want to followFalling faster just to find outCounting times you&#39;ve still to mentionGive away your heartIt fades with these daydreams(x2)I know what this meantYour downfall still sets the stereoSee through my eyes just to wonderWhy i just want to followFalling faster just to find outCounting times you&#39;ve still to mentionGive away your heartIt fades with these daydreams(x2)Your truth is all I knowOf course its just for meI say it has to endSo listen well i will beginYou say I am over lovedI say there&#39;s nothing left to hideThe path is mineI will decideGive away your heartIt fades with these daydreams(x2)&quot;},{&quot;id&quot;:1306,&quot;artist_name&quot;:&quot;A Burning Water&quot;,&quot;song_title&quot;:&quot;Retract&quot;,&quot;song_year&quot;:2005,&quot;song_lyrics&quot;:&quot;Rise when we fallDo we takeForm in timeDo we careHow we liveFold your sideWhere to speakWhere to dieStill in this warSet fire to itThere&#39;s so much more to thisBut there&#39;s no truth only deathPlot your vengeance nowForget our livesSo set fire to itDream is this rightDo we partDoes this meanFalse retractHold your eyesSample changeOf our livesReach the skyDrink our blood nowSet fire to itThere&#39;s so much more to thisBut there&#39;s no truth only deathPlot your vengeance nowForget our livesSo set fire to itTheir back from backFrom the days of our livesThe decisions decisions we make in deathRemember the wordsRemember the words and speak truthThis sky inside from eyesRetract our souls andSet fire to itThere&#39;s so much more to thisBut there&#39;s no truth only deathPlot your vengeance nowForget our livesSo set fire to it.&quot;},{&quot;id&quot;:1307,&quot;artist_name&quot;:&quot;A Burning Water&quot;,&quot;song_title&quot;:&quot;These Ruins&quot;,&quot;song_year&quot;:2005,&quot;song_lyrics&quot;:&quot;Under the amazing sunThe ingrown tone speaksTo cancel out the tearsBut i remember wellOf once remembered states of emptinessThe water is risingIn your eyes to bleed and seeThese empty walls are forming the tidesInside the rediscovered skyI only exist as the sunIn truth as the pages turn nowOf once remembered states of emptinessThe water is risingIn your eyes to bleed and seeThese empty walls are forming the tidesThese words of yours they say to meTheres something more you want from meThis heart you breakThis life you takeI&#39;ll be in endAnd with raised fistsAnd oceans in our eyesWe fear our fearsWe fear we once controlled the skyWe fear right to the endThis one time right to the end.&quot;}]</textarea>
+  </div>
+  <div class="loading-preview-msg"><p class="preview-msg text-gray">Loading preview&hellip;</p></div>
+  <div class="no-changes-preview-msg"><p class="preview-msg text-gray">No changes to display.</p></div>
+  <div class="error-preview-msg"><p class="preview-msg text-gray">Unable to load this preview, sorry.</p></div>
+  <div class="js-commit-preview commit-preview">
+  </div>
+</div>
+
+
+
+<div class="file-commit-form js-file-commit-form">
+  <img alt="@hobson" class="commit-form-avatar float-left rounded-1" height="48" src="https://avatars2.githubusercontent.com/u/292855?v=4&amp;s=96" width="48" />
+
+  <div class="commit-form position-relative p-3 mb-2 border rounded-1">
+    <h3>Commit changes</h3>
+
+    <div class="text-orange js-too-long-error d-none">
+      <svg aria-hidden="true" class="octicon octicon-light-bulb" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"/></svg>
+      <strong>ProTip!</strong> Great commit summaries contain fewer than 50 characters. Place extra information in the extended description.
+    </div>
+
+    <label for="commit-summary-input" class="d-none">
+      Commit summary
+    </label>
+    <input id="commit-summary-input" type="text" class="form-control input-block input-contrast js-new-blob-commit-summary"
+      placeholder="Update songs.json"
+      name="message" value="" autocomplete="off">
+    <input type="hidden" class="js-commit-message-fallback" name="placeholder_message"
+      value="Update songs.json">
+
+    <label for="commit-description-textarea" class="d-none">
+      Optional extended description
+    </label>
+    <textarea id="commit-description-textarea" name="description"
+      class="form-control input-block input-contrast comment-form-textarea js-quick-submit" placeholder="Add an optional extended description…"></textarea>
+
+    
+<dl class="form-group mb-0">
+  <dd>
+    <div class="form-checkbox pl-4 mt-0 mb-2">
+      <label class="text-normal">
+        <input type="radio" class="js-quick-pull-choice-option" name="commit-choice" value="direct"
+              checked="checked"
+
+        >
+          <svg aria-hidden="true" class="octicon octicon-git-commit text-gray mr-1 text-center" height="16" version="1.1" viewBox="0 0 14 16" width="16"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+          Commit directly to the <strong class="branch-name">master</strong> branch.
+      </label>
+    </div>
+    <div class="form-checkbox pl-4 my-0">
+      <label class="text-normal">
+        <input type="radio" class="js-quick-pull-choice-option" name="commit-choice" value="quick-pull"
+        >
+        <svg aria-hidden="true" class="octicon octicon-git-pull-request text-gray mr-1 text-center" height="16" version="1.1" viewBox="0 0 12 16" width="16"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        Create a <strong>new branch</strong> for this commit and start a pull request.
+        <a href="https://help.github.com/articles/using-pull-requests" target="_blank">
+          Learn more about pull requests.
+        </a>
+      </label>
+    </div>
+  </dd>
+</dl>
+
+<div class="ml-6 js-quick-pull-branch-name mt-2 d-none">
+  <div class="position-relative mt-2 ml-2">
+    <svg aria-hidden="true" class="octicon octicon-git-branch quick-pull-new-branch-icon text-gray-light position-absolute text-center" height="16" version="1.1" viewBox="0 0 10 16" width="16"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+    <input type="text" value="hobson-patch-1"
+      class="form-control input-contrast mr-1 pl-5 input-monospace js-quick-pull-new-branch-name"
+      placeholder="New branch name…"
+      aria-label="Enter a branch name"
+      data-generated-branch="hobson-patch-1"
+      data-check-url="https://github.com/hackoregon/civicu-pythonii-summer-2017/ref_check"
+      data-check-authenticity-token="I5PKQusn0fSATEDbp9CUw23HIoD1Dg3a0QM+9sibkE0my4ryKn83sMZzc+khZQOWlYpzEOSu32T2zOL6bEF3pw==">
+    <span class="text-gray js-quick-pull-normalization-info"></span>
+  </div>
+</div>
+
+<input type="hidden" name="target_branch" class="js-quick-pull-target-branch" value="master" data-default-value="master">
+<input type="hidden" name="quick_pull" class="js-quick-pull-choice-value" value="">
+
+  </div>
+
+  <button type="submit" class="btn btn-primary js-blob-submit"
+    id="submit-file"
+    data-edit-text="Commit changes"
+    data-pull-text="Propose file change"
+    disabled>
+    Commit changes
+  </button>
+
+  <a href="/hackoregon/civicu-pythonii-summer-2017/blob/master/student-work/mark_wheeler/August-9th/songs.json" class="btn btn-danger">Cancel</a>
+
+</div>
+
+</form>  </div>
+
+  </div>
+  <div class="modal-backdrop js-touch-events"></div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+      
+<div class="container-lg site-footer-container">
+  <div class="site-footer " role="contentinfo">
+    <ul class="site-footer-links float-right">
+        <li><a href="https://github.com/contact" data-ga-click="Footer, go to contact, text:contact">Contact GitHub</a></li>
+      <li><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li><a href="https://github.com/blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a href="https://github.com/about" data-ga-click="Footer, go to about, text:about">About</a></li>
+
+    </ul>
+
+    <a href="https://github.com" aria-label="Homepage" class="site-footer-mark" title="GitHub">
+      <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+    <ul class="site-footer-links">
+      <li>&copy; 2017 <span title="0.25471s from unicorn-1546118915-b0nvz">GitHub</span>, Inc.</li>
+        <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
+        <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
+        <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a href="https://help.github.com" data-ga-click="Footer, go to help, text:help">Help</a></li>
+    </ul>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg aria-hidden="true" class="octicon octicon-alert" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"/></svg>
+    <button type="button" class="flash-close js-flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg aria-hidden="true" class="octicon octicon-x" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+    </button>
+    You can't perform that action at this time.
+  </div>
+
+
+    
+    <script crossorigin="anonymous" integrity="sha256-ugP7MGutPPfKM80MBAUPvU2pJJAZfihFa+cjTIoC2Tc=" src="https://assets-cdn.github.com/assets/frameworks-ba03fb306bad3cf7ca33cd0c04050fbd4da92490197e28456be7234c8a02d937.js"></script>
+    
+    <script async="async" crossorigin="anonymous" integrity="sha256-ZAdSoo/uIV5nOAzB5kkned5qU0Aply4WDDK9WN/zT+o=" src="https://assets-cdn.github.com/assets/github-640752a28fee215e67380cc1e6492779de6a534029972e160c32bd58dff34fea.js"></script>
+    
+    
+        <script crossorigin="anonymous" integrity="sha256-8tR2rij43Dkm58zrYj8CG24pvtfOfM8+rJFxmtQyvAI=" src="https://assets-cdn.github.com/assets/editor-f2d476ae28f8dc3926e7cceb623f021b6e29bed7ce7ccf3eac91719ad432bc02.js"></script>
+
+    
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+    <svg aria-hidden="true" class="octicon octicon-alert" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"/></svg>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <div class="facebox" id="facebox" style="display:none;">
+  <div class="facebox-popup">
+    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
+    </div>
+    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
+      <svg aria-hidden="true" class="octicon octicon-x" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+    </button>
+  </div>
+</div>
+
+
+  </body>
+</html>
+
