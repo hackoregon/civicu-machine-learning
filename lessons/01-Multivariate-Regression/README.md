@@ -48,6 +48,12 @@ How should we display the results of a multivariate linear regression with 2 "fe
 
 * What additional questions should you ask yourself when you are training a machine to make predictions?
 
-If you want to think about this more deeply, check out the draft of a presentation on (AI Morality](../ai-morality.md).
+If you want to think about this more deeply, check out the draft of a presentation on [AI Morality](../ai-morality.md).
 
 
+# Old Slides
+
+- Day 1
+  - Introduction
+    - [markdown](2016-02-11-Hack-University-Machine-Learning-01-Introduction.md#hack-university-machine-learning)
+    - [html](http://totalgood.github.io/talks/2016-02-11-Hack-University-Machine-Learning-01-Introduction.html#/)
