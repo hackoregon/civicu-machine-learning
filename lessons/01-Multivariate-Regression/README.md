@@ -1,8 +1,20 @@
 # Multivariate Regression, Ethics, and Git
 
+## Class Structure
+
+* Quiz or Review (today: ML and linear regression)
+* Review Homework (today: [multivariate regresion](../01-Machine-Learning/HOMEWORK.md))
+* 1 New ML Technique (today: multivariate and nonlinear regression)
+* Logistics/Tool (today: git)
+* Review
+
+We'll review what we learned last week.
+
 In every class we're going to learn about a new Machine Learning model and train it on some data.
-By the end of the class you should have developed some habits for working with data and producing Machine Learning models in seconds.
+You'll build habits for working with data and producing models in seconds.
+
 We'll also spend some time in each class working on the logistics of Data Science and Machine Learning:
+
 
 * Data ETL
   * **E**xtract data from a data source
@@ -15,7 +27,9 @@ We'll also spend some time in each class working on the logistics of Data Scienc
       * normalize or standardize (to help the ML fit)
       * combine or split columns
       * join/merge tables
-      * clean the data (remove or correct errors)
+      * clean the data
+          * remove errors: use a `mask` or list of row numbers
+          * correct errors (see **imputation** or **interpolation**)
       * deal with missing values
         * delete rows: `df.dropna(thresh=N)` (can you use a mask?)
         * delete columns: `df.dropna(thresh=N, axis=1)`
@@ -28,10 +42,12 @@ We'll also spend some time in each class working on the logistics of Data Scienc
             * min or min "-1"
             * max or max "+1"
             * arbitrary valuesome new value to create ML **features**
-        * imputation: `model.fit_transform()`
-  * **L**oad data into your model or pipeline
-    * `df.to_csv()... df = `pd.read_csv()`
-* data cleaning
+        * imputate/interpolate with new values:
+            * submodels: `model.fit_transform()`
+            * backfilling: `df.ffill()`
+  * **L**oad data into your DB for your ML **pipeline**
+      * `df.to_csv()... df = `pd.read_csv()`
+
 
 ## Multivariate Linear Regression
 
