@@ -56,14 +56,14 @@ coef = coef / (df['centered_weight'].mean() * df['centered_height'].mean())
 ```
 
 
-
+To summarize...
 
 
 * Manually programming a weight predictor
     * y = a * x 
     * y = a * x + b
     * y = coef * x + intercept
-    
+
 
 * Using data to manually improve the predictions
 * Automating this manual process
