@@ -1,6 +1,20 @@
 # Job Interviews
 
-This document provides an incomplete list of concepts and vocabulary that a student in a machine learning or data science course should understand.
+## Code Test Practice
+
+* exercism.io
+* leetcode.com
+* glassdoor.com
+
+## Online Interviews/Coding
+
+* [collabedit](collabedit.com) Slow, but allows you to share session
+* [codeshare.io/](https://codeshare.io/)
+* [live coding in python](http://pythontutor.com/live.html#mode=edit)
+* [Haskell, Python, C++, etc](http://codepad.org/)
+* [javascript editing with collaboration at jsfiddle](https://jsfiddle.net/)
+
+Here's an incomplete list of concepts and vocabulary that a student in a machine learning or data science course should understand.
 This could be a source of quiz, exam, or job-interview questions.
 
 ## Vocabulary
