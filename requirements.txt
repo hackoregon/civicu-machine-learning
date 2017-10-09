@@ -1,1 +1,4 @@
 nlpia>=0.0.22
+pystan
+cython
+fbprophet
