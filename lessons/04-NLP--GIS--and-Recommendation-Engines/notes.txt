@@ -17,7 +17,7 @@
 		* Synonmy 
 
 	* Examples?
-	* 
+
 		* Search Engine: the first
 		* Auto complete:
 		* NLP Chat bots writing finance
