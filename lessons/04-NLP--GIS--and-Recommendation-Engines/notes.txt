@@ -1,0 +1,255 @@
+
+	* Machine and language:
+	* Startup? 
+	* Dan Fellin: Pycon NLP 2016
+	* Some amazing things that are happening:
+	* 
+		* Detection of sarcasm in an isolated text. (Example?) but not an ongoing sentence with context.
+		* 
+			* Context = Metadata
+			* Good morning, is it a greeting? or a quality of morning? 
+
+
+	* Linear algebra = key to semantic analysis
+	* Why is it hard? it's not like building a if / then statement. We need to rely on statistical relationships. 
+	* 
+		* Polysemy
+		* Synonmy 
+
+	* Examples?
+
+		* Search Engine: the first
+		* Auto complete:
+		* NLP Chat bots writing finance
+		* 20% of tweets were bots in election
+		* Fake news.
+		* LOL at hobson for letting bot write textbook
+		* Shakespeare on henry the V
+
+	* We think in words. Will words power thought in machines?
+	* Similarity metrics like jaccard, levenshtein, and euclidian distance help, with spelling but wont capture relationships when very disimilar
+
+
+
+	* A collection of documents is called a corpus
+	* Words / Sequences in an idnex = lexicon  --every word used...
+	* Bag of words...
+	* 
+		* Think of a token sorter
+		* (tokenize)
+		* Creates a vector Lots of zeroes, but counts of tokens
+		* 
+			* It's hard to undestand now. just a vector of word frequencies
+
+		* zero order...
+		* 
+			* we lose order. "good evening hack oregon"  fact(40)
+
+
+
+
+
+	* tokenize: From one student to another student, learning about machine learning -- is fun!
+	* {good, morning, rosa}
+	* Parts of speech tagging (potential features)b
+	* 
+		* Good - adjective
+		* morning - singular noun
+		* rosa - singular proper noun
+		* . punct
+
+	* Regex is more than just search. It helps the machine ID words. 
+
+
+Dimension Reduction
+
+	* Potential problem:
+	* 
+		* what if we had a 7 million bag lexicon... that's such a high dimension!
+
+	* Another problem:
+	* 
+		* What about "guten morgen" and "good morning?" 
+		* get sentiment, subject ... in topics
+
+
+
+
+
+	* 19 "languiages"
+	* Information loss in BOW / DR
+
+
+
+
+C2:
+
+Work flow:
+
+
+	* Corpora
+	* Curate
+	* 
+		* Contractions
+		* 
+			* Don't? do not?
+
+		* Abbreviate
+		* Vocab Normalization Techniques:
+		* 
+			* Case Norming: Goal: return words to appropriate non-prounoun status..b
+			* 
+				* "Hey Pat. he went to feed the dog"
+				* 
+					* {'hey', 'pat','.','he','went','to','feed','the','dog','!'}
+
+				* "He then pat the dog"
+				* 
+					* {'he','then','pat','the','dog','.'}
+
+				* Case norming reduces BOW length...
+				* 
+					* 1.  hey pat he went to feed the dog then . !
+					* 2. Hey, Pat, pat, he, He, went, to, pet, the dog . !
+					* We lost meaning though "Pat" vs "pat"
+
+
+			* Stemming (combine similar meaning words via regex) to stems!
+			* 
+				* walk, walking, walked = walk
+				* Problem 1:
+				* 
+					* "developing" houses = "develop"
+					* software "developer" = "develop"
+					* google lets you turn it off "Software Developer"
+
+				* problem 2:
+				* 
+					* Better = Bett or bet
+					* Betting = bet
+					* same word, meaning lost.
+
+				* Generally faster, more errors, reduce your vocab
+
+			* Lemmatization to lemmas
+			* 
+				* More accurate.
+				* Identifies POS
+				* Slower, fewer errors, reduce vocab
+
+
+		* Stopwords. 
+		* 
+			* Goal: words that occur with high frequency aren't that useful
+			* Every sentence had the following: A, the, is, and
+			* NLTK has a great one nltk.corpus.stopwords.words('english')
+
+		* Capitlization
+		* POS tagging
+		* Punctuations
+
+	* Tokenize to build vocabulary into "bit vectors" 1 and 0s
+	* 
+		* Def: break unstructured text into chunks of information that can be counted as discrete elements...
+		* words, numbers,punct, emojis
+		* Easiest: Tokenize via white space...
+		* 
+			* BUT: what if typo?
+			* 
+				* "Hellofrieds ho'ws it going?"
+				* what about "Going?"
+				* 
+					* need to split on punct!
+
+
+
+		* tool: regexptokenizer
+		* 
+			* treebankword tokenizer
+
+
+	* n-grams
+	* 
+		* is ice cream one or two? New york?
+		* tokenize 2grams
+		* Two grams:
+		* 
+			* "Thomas Jefferson" - Rare, we probably dont want this. Not predictive.
+			* "At the" - Too frequent. Probably useless. 
+			* "Ice Cream" - we probably want this
+
+		* Three Grams:
+		* 
+			* "New York City" - Frequent, predictive.
+			* "running a bit" - Probably want this
+			* "all the while" - probably dont want this...??
+
+		* Rule: Filter out if too rare or too often (>25% of documents) ... just like stop words!
+		* Potential problem:
+		* 
+			* Removing stop words, "to, the as"...
+			* meaning is lost:
+			* 
+				* mark reported to the ceo = mark reported ceo
+				* suzanne reported as the ceo = suzanne reported ceo
+
+
+
+	* Shallow NLP learning Techinques
+	* 
+		* BOW, our vector representation of documents
+		* 
+			* 
+			*  
+			* We can now do operations:
+			* 
+				* Dot products for how many words overlap
+				* distance formulae for similarity
+
+			* Bag of N-Grams
+			* TF-IDF Vectors
+
+		* One hot vector
+		* cat in the hat
+		* [[]]
+
+	* Reduce Dimensions
+	* Metadata
+	* 
+		* Time
+		* Location
+		* Gender
+		* etc..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
