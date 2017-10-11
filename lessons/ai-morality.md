@@ -14,6 +14,7 @@
         * DL models are less explainable and tunable
         * Ng 1-second rule: DL can make most decisions faster and more accurately than a human
         * DL requires more data than ML (because models are more complex)
+        * Wayz and Google Maps 
 * The control problem (AI morality motivation)
     * What's the problem?
         * Elon Musk et. al. [open letter]() to UN
@@ -57,6 +58,7 @@
     * Build business intelligence systems that "win" by helping your community
     * Never shirk your moral decision responsibility, no matter what the lawyers tell you
     * Teach morality to your coworkers **and** their machines
+    * Incorporate prosocial skill into [AI IQ tests](https://techxplore.com/news/2017-10-chinese-google-alphago-smarter-siri.html)
 
 ## Unabridged Abstract
 
@@ -123,6 +125,27 @@ Eventually the prosocial, forward-thinking, big-picture vision companies and eng
 So regulation cannot solve this riddle is not the answer, big-thinking, altruistic design is!
 
 Must make safety-critical predictions like predicting the gesture of a construction worker making eye contact and beconing forward toards him, vs holding a hand up to signal stop.[1]
+
+### Moral Route-Finding
+
+In some cases self-serving route-optimization algorithms serve the common good.  
+When Waze helps you avoid traffic [it helps reduce conjestion for everyone](https://www.researchgate.net/publication/261083823_Adaptive_Traffic_Optimization)
+
+In other cases route-optimization can harm the common welfare:
+
+* routing traffic through residential neighborhoods
+    * endangers children and pedestrians
+    * increases pollution/asthma in residential neighborhoods
+    * increases noise pollution in quiet parts of town
+* routing car traffic onto bike streets
+    * endangers cyclists, skaters, etc
+    * increases pollutants inhaled by cyclists, etc
+* routing car traffic near schools, hospitals, nursing homes, fire stations, etc
+
+How much do you think weighs the public good vs your **thumbs-up** frequency?  
+What is the appropriate weight?  
+
+This is a moral decision, and should be optimized with as much thought as customer satisfaction or revenue.
 
 ## Slides
 
@@ -257,3 +280,8 @@ Ng seems to dismiss several reasonable arguments by smart people (see Surviving 
 Seems like a false analogy. A more appropriate analogy might be worrying about the seeding of Mars with viral/bacteria life from Earth that destroys existing life on Mars or makes it uninhabitable.
 
 ~~~ENDSECTION~~~
+
+
+References:
+
+* [AI IQ tests](https://techxplore.com/news/2017-10-chinese-google-alphago-smarter-siri.html)
