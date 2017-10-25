@@ -1,3 +1,14 @@
+# Scaling and QA
+
+We're going to try to finish up our NLP and Chatbot work today.
+
+1. Make it smarter (adding more data)
+2. Make it faster (scaling tricks to deal with more data)
+3. Make it "hybrid" by adding Grammar-based functionality
+
+These are the features you need to build a commercially viable chatbot.  
+This is the kind of chatbot you could install on your website or your Amazon storefront to provide customer service when you're asleep.  
+
 ## Scaling
 
 Two kinds of scaling challenges come up a lot with NLP.
@@ -40,4 +51,5 @@ It has algorithms that smartly use vectorized calculations on batches of data.
 So those calculations can be distributed to multiple CPUs or cores.  
 And you don't have to load all the data at once!  
 So you **save** two birds with one stone (by scaring away the cat with a well-played toss of the stone).  
+
 
