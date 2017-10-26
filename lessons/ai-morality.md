@@ -285,3 +285,5 @@ Seems like a false analogy. A more appropriate analogy might be worrying about t
 References:
 
 * [AI IQ tests](https://techxplore.com/news/2017-10-chinese-google-alphago-smarter-siri.html)
+* [How we feel about robots that feel](https://www.technologyreview.com/s/609074/how-we-feel-about-robots-that-feel/?utm_source=MIT+Technology+Review&utm_campaign=a13b2f2c53-weekly_roundup_2017-10-26_edit&utm_medium=email&utm_term=0_997ed6f472-a13b2f2c53-154688709&goal=0_997ed6f472-a13b2f2c53-154688709&mc_cid=a13b2f2c53&mc_eid=5a4081f32c)
+* [Google's sentiment analysis is as biased as humans are](https://www.engadget.com/2017/10/25/googles-sentiment-analysis-api-is-just-as-biased-as-humans/)
